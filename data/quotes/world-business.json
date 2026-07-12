@@ -1,0 +1,1157 @@
+{
+  "version": 2,
+  "mode": "world-business",
+  "generatedAt": "2026-07-12T03:18:32.472Z",
+  "count": 42,
+  "quotes": [
+    {
+      "id": "WB-0061",
+      "text": "点と点を未来に向かって結ぶことはできない。振り返って結ぶしかない。",
+      "author": "スティーブ・ジョブズ",
+      "authorNote": "Apple共同創業者。製品とデザイン主導の経営で知られる。",
+      "reason": "遠回りへの不安を和らげる。",
+      "smallStep": "今日学んだことを一行記録する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "You can’t connect the dots looking forward; you can only connect them looking backwards.",
+      "meaning": "今は無関係に見える経験も、後で意味を持つことがある。",
+      "sourceName": "Stanford Commencement Address, 2005",
+      "sourceUrl": "https://news.stanford.edu/stories/2005/06/steve-jobs-2005-graduates-stay-hungry-stay-foolish",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0062",
+      "text": "自分がもうすぐ死ぬと覚えておくことは、失うものがあるという思い込みを避ける最良の方法だ。",
+      "author": "スティーブ・ジョブズ",
+      "authorNote": "Apple共同創業者。製品とデザイン主導の経営で知られる。",
+      "reason": "大きな決断の優先順位を明確にする。",
+      "smallStep": "一年後も大切なことを一つ選ぶ。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "決断"
+      ],
+      "themesSub": [
+        "勇気"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.",
+      "meaning": "有限性を意識すると、本当に大切な選択が見える。",
+      "sourceName": "Stanford Commencement Address, 2005",
+      "sourceUrl": "https://news.stanford.edu/stories/2005/06/steve-jobs-2005-graduates-stay-hungry-stay-foolish",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0063",
+      "text": "あなたの時間は限られている。他人の人生を生きて浪費してはいけない。",
+      "author": "スティーブ・ジョブズ",
+      "authorNote": "Apple共同創業者。製品とデザイン主導の経営で知られる。",
+      "reason": "進路や働き方の迷いに合う。",
+      "smallStep": "自分が望むことを主語「私は」で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "自立"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Your time is limited, so don’t waste it living someone else’s life.",
+      "meaning": "他人の期待だけでなく、自分の価値観で選ぶ。",
+      "sourceName": "Stanford Commencement Address, 2005",
+      "sourceUrl": "https://news.stanford.edu/stories/2005/06/steve-jobs-2005-graduates-stay-hungry-stay-foolish",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0064",
+      "text": "ハングリーであれ。愚かであれ。",
+      "author": "スティーブ・ジョブズ",
+      "authorNote": "Apple共同創業者。製品とデザイン主導の経営で知られる。",
+      "reason": "短く記憶に残り、挑戦を促す。",
+      "smallStep": "初めての方法を一つ試す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Stay Hungry. Stay Foolish.",
+      "meaning": "満足しきらず、未知へ向かう初心を持つ。",
+      "sourceName": "Stanford Commencement Address, 2005",
+      "sourceUrl": "https://news.stanford.edu/stories/2005/06/steve-jobs-2005-graduates-stay-hungry-stay-foolish",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0065",
+      "text": "人生で最も大切なことは、世界が一般に悪化しているのではなく、良くなっていると知ることだ。",
+      "author": "ビル・ゲイツ",
+      "authorNote": "Microsoft共同創業者、慈善活動家。",
+      "reason": "悲観一色から視野を広げる。",
+      "smallStep": "改善した事実を一つ探す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "癒されたい日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "行動"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "The most important thing I have learned is that the world is getting better.",
+      "meaning": "長期的な進歩を知ることは、希望と行動につながる。",
+      "sourceName": "Harvard Commencement Address, 2007",
+      "sourceUrl": "https://news.harvard.edu/gazette/story/2007/06/remarks-of-bill-gates-harvard-commencement-2007/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0066",
+      "text": "大きな成果には、大きなリスクを取らなければならないことがある。",
+      "author": "ビル・ゲイツ",
+      "authorNote": "Microsoft共同創業者、慈善活動家。",
+      "reason": "安全策だけでは届かない局面に合う。",
+      "smallStep": "失敗しても戻せる小さな賭けを一つする。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "To win big, you sometimes have to take big risks.",
+      "meaning": "重要な目標には、計算したリスクが必要。",
+      "sourceName": "The Road Ahead",
+      "sourceUrl": "https://www.gatesnotes.com/Dear-Class-of-2017",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0067",
+      "text": "新卒者への私の助言は、影響を与えられる場所を探すことだ。",
+      "author": "ビル・ゲイツ",
+      "authorNote": "Microsoft共同創業者、慈善活動家。",
+      "reason": "進路選択の軸を与える。",
+      "smallStep": "自分が改善したい問題を一つ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "貢献"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "My advice to new graduates is to look for places where you can make an impact.",
+      "meaning": "肩書より、良い変化を生める場所を選ぶ。",
+      "sourceName": "Dear Class of 2017",
+      "sourceUrl": "https://www.gatesnotes.com/Dear-Class-of-2017",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0068",
+      "text": "賢い人々に囲まれ、彼らから学べる仕事を選びなさい。",
+      "author": "ビル・ゲイツ",
+      "authorNote": "Microsoft共同創業者、慈善活動家。",
+      "reason": "学びを人との関係に広げる。",
+      "smallStep": "学びたい人に質問を一つ送る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "勉強が進まない日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Surround yourself with people who challenge you, teach you, and push you to be your best self.",
+      "meaning": "成長できる人間関係を仕事選びの基準にする。",
+      "sourceName": "Dear Class of 2017",
+      "sourceUrl": "https://www.gatesnotes.com/Dear-Class-of-2017",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0069",
+      "text": "失敗とは、より賢くやり直す機会にすぎない。",
+      "author": "ヘンリー・フォード",
+      "authorNote": "Ford Motor Company創業者。大量生産方式を普及させた。",
+      "reason": "再挑戦を具体的に促す。",
+      "smallStep": "次回変える点を一つ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "失敗"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "meaning": "失敗を、改善した再出発の材料にする。",
+      "sourceName": "My Life and Work",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/7213",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0070",
+      "text": "集まることは始まり、共にいることは進歩、共に働くことは成功である。",
+      "author": "ヘンリー・フォード",
+      "authorNote": "Ford Motor Company創業者。大量生産方式を普及させた。",
+      "reason": "家族やチームに使いやすい。",
+      "smallStep": "一人で抱えた作業を一つ相談する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "家族を大切にしたい日"
+      ],
+      "themesMain": [
+        "協働"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Coming together is a beginning; keeping together is progress; working together is success.",
+      "meaning": "集団は、協働して初めて成果になる。",
+      "sourceName": "Ford corporate archive",
+      "sourceUrl": "https://corporate.ford.com/articles/history/henry-ford-quotes.html",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0071",
+      "text": "考えることは最も難しい仕事だ。だからそれをする人が少ないのだろう。",
+      "author": "ヘンリー・フォード",
+      "authorNote": "Ford Motor Company創業者。大量生産方式を普及させた。",
+      "reason": "忙しさと熟考を区別できる。",
+      "smallStep": "15分、通知を切って考える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Thinking is the hardest work there is, which is probably the reason why so few engage in it.",
+      "meaning": "考える時間を仕事として確保する。",
+      "sourceName": "Ford corporate archive",
+      "sourceUrl": "https://corporate.ford.com/articles/history/henry-ford-quotes.html",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0072",
+      "text": "自分にできると思っても、できないと思っても、どちらも正しい。",
+      "author": "ヘンリー・フォード",
+      "authorNote": "Ford Motor Company創業者。大量生産方式を普及させた。",
+      "reason": "行動前の思い込みに気づける。",
+      "smallStep": "「できる条件」を一つ作る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "行動"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Whether you think you can, or you think you can’t—you’re right.",
+      "meaning": "自己認識が行動と結果に影響する。",
+      "sourceName": "Ford corporate archive",
+      "sourceUrl": "https://corporate.ford.com/articles/history/henry-ford-quotes.html",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0073",
+      "text": "天才とは1パーセントのひらめきと99パーセントの努力である。",
+      "author": "トーマス・エジソン",
+      "authorNote": "多数の発明と事業化で知られる米国の発明家。",
+      "reason": "努力の価値を短く示す。",
+      "smallStep": "25分だけ集中する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "努力"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Genius is one per cent inspiration and ninety-nine per cent perspiration.",
+      "meaning": "ひらめきを成果にするのは、継続的な作業。",
+      "sourceName": "Harper’s Monthly, 1932 interview record",
+      "sourceUrl": "https://edisondigital.rutgers.edu/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0074",
+      "text": "価値あるものを成し遂げる三つの要件は、勤勉、粘り強さ、常識である。",
+      "author": "トーマス・エジソン",
+      "authorNote": "多数の発明と事業化で知られる米国の発明家。",
+      "reason": "努力だけでなく常識も含む。",
+      "smallStep": "止まっている理由を現実的に一つ直す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.",
+      "meaning": "成果には努力、粘り、現実的判断が要る。",
+      "sourceName": "Edison Papers quotation records",
+      "sourceUrl": "https://edisondigital.rutgers.edu/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0075",
+      "text": "私は失敗していない。うまくいかない方法を見つけただけだ。",
+      "author": "トーマス・エジソン",
+      "authorNote": "多数の発明と事業化で知られる米国の発明家。",
+      "reason": "実験的な姿勢を支える。",
+      "smallStep": "結果と条件をメモして次を変える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "失敗"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I have not failed. I’ve just found 10,000 ways that won’t work.",
+      "meaning": "試行の失敗を、方法の検証結果として扱う。",
+      "sourceName": "Edison Papers / biographical record",
+      "sourceUrl": "https://edisondigital.rutgers.edu/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0076",
+      "text": "準備こそ、成功への鍵である。",
+      "author": "アレクサンダー・グラハム・ベル",
+      "authorNote": "電話の発明・改良で知られる科学者・発明家。",
+      "reason": "今日すぐ使える実務的な言葉。",
+      "smallStep": "必要な道具を先に並べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "準備"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Before anything else, preparation is the key to success.",
+      "meaning": "良い結果は、始める前の準備で大きく変わる。",
+      "sourceName": "Library of Congress, Bell papers",
+      "sourceUrl": "https://www.loc.gov/collections/alexander-graham-bell-papers/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0077",
+      "text": "一つの考えに全力を集中せよ。",
+      "author": "アレクサンダー・グラハム・ベル",
+      "authorNote": "電話の発明・改良で知られる科学者・発明家。",
+      "reason": "注意の分散を止める。",
+      "smallStep": "タブを一つだけ残す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "集中"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Concentrate all your thoughts upon the work at hand.",
+      "meaning": "今している一つの仕事に意識を集める。",
+      "sourceName": "Bell papers / biographical record",
+      "sourceUrl": "https://www.loc.gov/collections/alexander-graham-bell-papers/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0078",
+      "text": "すばらしい仕事をする唯一の方法は、自分の仕事を愛することだ。",
+      "author": "スティーブ・ジョブズ",
+      "authorNote": "Apple共同創業者。製品とデザイン主導の経営で知られる。",
+      "reason": "仕事との関係を見直せる。",
+      "smallStep": "今の仕事で好きな部分を一つ探す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "情熱"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "The only way to do great work is to love what you do.",
+      "meaning": "良い仕事には、対象への関心と愛着が必要。",
+      "sourceName": "Stanford Commencement Address, 2005",
+      "sourceUrl": "https://news.stanford.edu/stories/2005/06/steve-jobs-2005-graduates-stay-hungry-stay-foolish",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0079",
+      "text": "心と直感に従う勇気を持ちなさい。",
+      "author": "スティーブ・ジョブズ",
+      "authorNote": "Apple共同創業者。製品とデザイン主導の経営で知られる。",
+      "reason": "重要な選択で自己信頼を促す。",
+      "smallStep": "静かな場所で本音を一文書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "勇気"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Have the courage to follow your heart and intuition.",
+      "meaning": "他人の声だけでなく、自分の内側の判断も尊重する。",
+      "sourceName": "Stanford Commencement Address, 2005",
+      "sourceUrl": "https://news.stanford.edu/stories/2005/06/steve-jobs-2005-graduates-stay-hungry-stay-foolish",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0080",
+      "text": "成功は下手な教師だ。賢い人に、負けないと思い込ませる。",
+      "author": "ビル・ゲイツ",
+      "authorNote": "Microsoft共同創業者、慈善活動家。",
+      "reason": "成功後の慢心に効く。",
+      "smallStep": "うまくいかなかった可能性を一つ振り返る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "調子が良くて油断しそうな日"
+      ],
+      "themesMain": [
+        "戒め"
+      ],
+      "themesSub": [
+        "謙虚"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Success is a lousy teacher. It seduces smart people into thinking they can’t lose.",
+      "meaning": "成功時こそ、過信を警戒する。",
+      "sourceName": "The Road Ahead",
+      "sourceUrl": "https://www.gatesnotes.com/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "WB-0081",
+      "text": "失った時間は二度と見つからない。",
+      "author": "ベンジャミン・フランクリン",
+      "authorNote": "米国の印刷業者・発明家・政治家。避雷針などの研究でも知られる。",
+      "reason": "時間について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "通知を10分だけ切る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "時間"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Lost time is never found again.",
+      "meaning": "失った時間は二度と見つからない。",
+      "sourceName": "The Autobiography of Benjamin Franklin",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/20203",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0082",
+      "text": "うまく語るより、うまく実行する方がよい。",
+      "author": "ベンジャミン・フランクリン",
+      "authorNote": "米国の印刷業者・発明家・政治家。避雷針などの研究でも知られる。",
+      "reason": "行動について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "最初の一動作だけ、今すぐ始める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Well done is better than well said.",
+      "meaning": "うまく語るより、うまく実行する方がよい。",
+      "sourceName": "The Autobiography of Benjamin Franklin",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/20203",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0083",
+      "text": "準備を怠ることは、失敗の準備をすることだ。",
+      "author": "ベンジャミン・フランクリン",
+      "authorNote": "米国の印刷業者・発明家・政治家。避雷針などの研究でも知られる。",
+      "reason": "準備について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "準備"
+      ],
+      "themesSub": [
+        "失敗"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "By failing to prepare, you are preparing to fail.",
+      "meaning": "準備を怠ることは、失敗の準備をすることだ。",
+      "sourceName": "The Autobiography of Benjamin Franklin",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/20203",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0084",
+      "text": "勤勉は幸運の母である。",
+      "author": "ベンジャミン・フランクリン",
+      "authorNote": "米国の印刷業者・発明家・政治家。避雷針などの研究でも知られる。",
+      "reason": "努力について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "15分だけ集中する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "努力"
+      ],
+      "themesSub": [
+        "成功"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Diligence is the mother of good luck.",
+      "meaning": "勤勉は幸運の母である。",
+      "sourceName": "The Autobiography of Benjamin Franklin",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/20203",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0085",
+      "text": "知識への投資は最良の利息を生む。",
+      "author": "ベンジャミン・フランクリン",
+      "authorNote": "米国の印刷業者・発明家・政治家。避雷針などの研究でも知られる。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "An investment in knowledge pays the best interest.",
+      "meaning": "知識への投資は最良の利息を生む。",
+      "sourceName": "The Autobiography of Benjamin Franklin",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/20203",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0086",
+      "text": "富を抱えたまま死ぬ人は、不名誉のうちに死ぬ。",
+      "author": "アンドリュー・カーネギー",
+      "authorNote": "鉄鋼業で成功し、図書館などへの慈善活動を行った実業家。",
+      "reason": "責任について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "責任"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "The man who dies thus rich dies disgraced.",
+      "meaning": "富を抱えたまま死ぬ人は、不名誉のうちに死ぬ。",
+      "sourceName": "The Gospel of Wealth",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/56227",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0087",
+      "text": "私の標語は集中だ。まず誠実、次に勤勉、そして集中。",
+      "author": "アンドリュー・カーネギー",
+      "authorNote": "鉄鋼業で成功し、図書館などへの慈善活動を行った実業家。",
+      "reason": "集中について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "集中"
+      ],
+      "themesSub": [
+        "信用"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Concentration is my motto—first honesty, then industry, then concentration.",
+      "meaning": "私の標語は集中だ。まず誠実、次に勤勉、そして集中。",
+      "sourceName": "The Gospel of Wealth",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/56227",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0088",
+      "text": "すべてを自分でやりたがる人は、偉大な指導者にはなれない。",
+      "author": "アンドリュー・カーネギー",
+      "authorNote": "鉄鋼業で成功し、図書館などへの慈善活動を行った実業家。",
+      "reason": "人間関係について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "人間関係"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "No man will make a great leader who wants to do it all himself.",
+      "meaning": "すべてを自分でやりたがる人は、偉大な指導者にはなれない。",
+      "sourceName": "The Gospel of Wealth",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/56227",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0089",
+      "text": "現在は彼らのものだが、私が働いた未来は私のものだ。",
+      "author": "ニコラ・テスラ",
+      "authorNote": "交流電力システムの発展に貢献した発明家・技術者。",
+      "reason": "希望について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "明日楽しみにできることを一つ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "The present is theirs; the future, for which I really worked, is mine.",
+      "meaning": "現在は彼らのものだが、私が働いた未来は私のものだ。",
+      "sourceName": "My Inventions",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/39272",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0090",
+      "text": "人類の進歩は、発明に大きく依存している。",
+      "author": "ニコラ・テスラ",
+      "authorNote": "交流電力システムの発展に貢献した発明家・技術者。",
+      "reason": "変化について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "変化"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "The progressive development of man is vitally dependent on invention.",
+      "meaning": "人類の進歩は、発明に大きく依存している。",
+      "sourceName": "My Inventions",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/39272",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0091",
+      "text": "発明家が感じるような高揚に匹敵するものはないと思う。",
+      "author": "ニコラ・テスラ",
+      "authorNote": "交流電力システムの発展に貢献した発明家・技術者。",
+      "reason": "幸福について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "幸福"
+      ],
+      "themesSub": [
+        "創造"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I do not think there is any thrill that can go through the human heart like that felt by the inventor.",
+      "meaning": "発明家が感じるような高揚に匹敵するものはないと思う。",
+      "sourceName": "My Inventions",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/39272",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0092",
+      "text": "鳥が長く滑空できるなら、なぜ私にはできないのか。",
+      "author": "ライト兄弟",
+      "authorNote": "世界初の動力有人飛行を実現した米国の発明家兄弟。",
+      "reason": "挑戦について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "If birds can glide for long periods of time, then why can’t I?",
+      "meaning": "鳥が長く滑空できるなら、なぜ私にはできないのか。",
+      "sourceName": "Library of Congress: Wilbur and Orville Wright Papers",
+      "sourceUrl": "https://www.loc.gov/collections/wilbur-and-orville-wright-papers/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0093",
+      "text": "朝起きるのが待ちきれないほど、私たちは夢中だった。",
+      "author": "ライト兄弟",
+      "authorNote": "世界初の動力有人飛行を実現した米国の発明家兄弟。",
+      "reason": "仕事について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日の成果を一つだけ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "幸福"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "We could hardly wait to get up in the morning.",
+      "meaning": "朝起きるのが待ちきれないほど、私たちは夢中だった。",
+      "sourceName": "Library of Congress: Wilbur and Orville Wright Papers",
+      "sourceUrl": "https://www.loc.gov/collections/wilbur-and-orville-wright-papers/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0094",
+      "text": "賢さは贈り物だが、優しさは選択である。",
+      "author": "ジェフ・ベゾス",
+      "authorNote": "Amazon創業者。電子商取引とクラウド事業を拡大した。",
+      "reason": "優しさについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "優しさ"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Cleverness is a gift, kindness is a choice.",
+      "meaning": "賢さは贈り物だが、優しさは選択である。",
+      "sourceName": "Princeton Commencement Address 2010",
+      "sourceUrl": "https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0095",
+      "text": "私たちは、自分の選択によって形づくられる。",
+      "author": "ジェフ・ベゾス",
+      "authorNote": "Amazon創業者。電子商取引とクラウド事業を拡大した。",
+      "reason": "決断について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "選択肢を二つに絞る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "決断"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "We are our choices.",
+      "meaning": "私たちは、自分の選択によって形づくられる。",
+      "sourceName": "Princeton Commencement Address 2010",
+      "sourceUrl": "https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0096",
+      "text": "才能をどう使い、どんな選択をするのか。",
+      "author": "ジェフ・ベゾス",
+      "authorNote": "Amazon創業者。電子商取引とクラウド事業を拡大した。",
+      "reason": "生き方について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "大切にしたいことを一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "生き方"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "How will you use your gifts? What choices will you make?",
+      "meaning": "才能をどう使い、どんな選択をするのか。",
+      "sourceName": "Princeton Commencement Address 2010",
+      "sourceUrl": "https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0097",
+      "text": "惰性に従うのか、それとも情熱に従うのか。",
+      "author": "ジェフ・ベゾス",
+      "authorNote": "Amazon創業者。電子商取引とクラウド事業を拡大した。",
+      "reason": "挑戦について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Will inertia be your guide, or will you follow your passions?",
+      "meaning": "惰性に従うのか、それとも情熱に従うのか。",
+      "sourceName": "Princeton Commencement Address 2010",
+      "sourceUrl": "https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0098",
+      "text": "楽な人生と、奉仕と冒険の人生のどちらを選ぶのか。",
+      "author": "ジェフ・ベゾス",
+      "authorNote": "Amazon創業者。電子商取引とクラウド事業を拡大した。",
+      "reason": "生き方について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "大切にしたいことを一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "生き方"
+      ],
+      "themesSub": [
+        "勇気"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Will you choose a life of ease, or a life of service and adventure?",
+      "meaning": "楽な人生と、奉仕と冒険の人生のどちらを選ぶのか。",
+      "sourceName": "Princeton Commencement Address 2010",
+      "sourceUrl": "https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0099",
+      "text": "評判を築くには20年かかり、失うには5分しかかからない。",
+      "author": "ウォーレン・バフェット",
+      "authorNote": "米国の投資家・Berkshire Hathaway会長。",
+      "reason": "信用について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "信用"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "It takes 20 years to build a reputation and five minutes to ruin it.",
+      "meaning": "評判を築くには20年かかり、失うには5分しかかからない。",
+      "sourceName": "Berkshire Hathaway Shareholder Letters",
+      "sourceUrl": "https://www.berkshirehathaway.com/letters/letters.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0100",
+      "text": "価格は支払うもの、価値は受け取るものだ。",
+      "author": "ウォーレン・バフェット",
+      "authorNote": "米国の投資家・Berkshire Hathaway会長。",
+      "reason": "仕事について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日の成果を一つだけ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "判断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Price is what you pay. Value is what you get.",
+      "meaning": "価格は支払うもの、価値は受け取るものだ。",
+      "sourceName": "Berkshire Hathaway Shareholder Letters",
+      "sourceUrl": "https://www.berkshirehathaway.com/letters/letters.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0101",
+      "text": "潮が引いたとき、誰が裸で泳いでいたかが分かる。",
+      "author": "ウォーレン・バフェット",
+      "authorNote": "米国の投資家・Berkshire Hathaway会長。",
+      "reason": "戒めについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "戒め"
+      ],
+      "themesSub": [
+        "成功"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Only when the tide goes out do you discover who’s been swimming naked.",
+      "meaning": "潮が引いたとき、誰が裸で泳いでいたかが分かる。",
+      "sourceName": "Berkshire Hathaway Shareholder Letters",
+      "sourceUrl": "https://www.berkshirehathaway.com/letters/letters.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "WB-0102",
+      "text": "私たちが好む保有期間は永遠だ。",
+      "author": "ウォーレン・バフェット",
+      "authorNote": "米国の投資家・Berkshire Hathaway会長。",
+      "reason": "継続について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "同じことを5分だけ続ける。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Our favorite holding period is forever.",
+      "meaning": "私たちが好む保有期間は永遠だ。",
+      "sourceName": "Berkshire Hathaway Shareholder Letters",
+      "sourceUrl": "https://www.berkshirehathaway.com/letters/letters.html",
+      "sourceGrade": "A"
+    }
+  ]
+}

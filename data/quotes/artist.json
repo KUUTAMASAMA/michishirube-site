@@ -1,0 +1,1251 @@
+{
+  "version": 2,
+  "mode": "artist",
+  "generatedAt": "2026-07-12T03:18:32.473Z",
+  "count": 46,
+  "quotes": [
+    {
+      "id": "AR-0101",
+      "text": "智に働けば角が立つ。情に棹させば流される。",
+      "author": "夏目漱石",
+      "authorNote": "明治・大正期の小説家。",
+      "reason": "理性と感情のバランスを考えられる。",
+      "smallStep": "相手の事情を一つ想像する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "人に腹を立てている日"
+      ],
+      "themesMain": [
+        "人間関係"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "理屈だけでも感情だけでも、人間関係は難しい。",
+      "sourceName": "草枕",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/000148/files/776_14941.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0102",
+      "text": "とかくに人の世は住みにくい。",
+      "author": "夏目漱石",
+      "authorNote": "明治・大正期の小説家。",
+      "reason": "自分だけではないと肩の力を抜ける。",
+      "smallStep": "散歩を5分する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "癒されたい日"
+      ],
+      "themesMain": [
+        "人間関係"
+      ],
+      "themesSub": [
+        "受容"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "人間社会の難しさを、少し距離を置いて眺める。",
+      "sourceName": "草枕",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/000148/files/776_14941.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0103",
+      "text": "自らを尊しと思わぬものは奴隷なり。",
+      "author": "夏目漱石",
+      "authorNote": "明治・大正期の小説家。",
+      "reason": "自己尊重を促す。",
+      "smallStep": "自分の良い点を一つ言葉にする。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "自立"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "自分の尊厳を自分で手放さない。",
+      "sourceName": "断片（則天去私関連資料）",
+      "sourceUrl": "https://www.aozora.gr.jp/index_pages/person148.html",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "AR-0104",
+      "text": "世界がぜんたい幸福にならないうちは個人の幸福はあり得ない。",
+      "author": "宮沢賢治",
+      "authorNote": "詩人・童話作家。",
+      "reason": "個人と共同体をつなぐ。",
+      "smallStep": "身近な一人を助ける。",
+      "sourceStatus": "verified",
+      "situations": [
+        "家族を大切にしたい日"
+      ],
+      "themesMain": [
+        "貢献"
+      ],
+      "themesSub": [
+        "家族"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "自分の幸せを、周囲や社会の幸せと切り離さない。",
+      "sourceName": "農民芸術概論綱要",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/000081/files/2386_13825.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0105",
+      "text": "永久の未完成これ完成である。",
+      "author": "宮沢賢治",
+      "authorNote": "詩人・童話作家。",
+      "reason": "未完成への焦りを和らげる。",
+      "smallStep": "途中でも今日の版を保存する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "勉強が進まない日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "継続"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "完成を固定せず、成長し続けることを受け入れる。",
+      "sourceName": "農民芸術概論綱要",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/000081/files/2386_13825.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0106",
+      "text": "雨ニモマケズ、風ニモマケズ。",
+      "author": "宮沢賢治",
+      "authorNote": "詩人・童話作家。",
+      "reason": "世代を超えて共有しやすい。",
+      "smallStep": "今日必要なことを一つ淡々と行う。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "忍耐"
+      ],
+      "themesSub": [
+        "希望"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "困難の中でも静かに持ちこたえる。",
+      "sourceName": "雨ニモマケズ",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/000081/files/45630_23908.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0107",
+      "text": "ミンナニデクノボートヨバレ、ホメラレモセズ、クニモサレズ。",
+      "author": "宮沢賢治",
+      "authorNote": "詩人・童話作家。",
+      "reason": "承認欲求を静める。",
+      "smallStep": "見返りを求めず一つ手伝う。",
+      "sourceStatus": "verified",
+      "situations": [
+        "調子が良くて油断しそうな日"
+      ],
+      "themesMain": [
+        "謙虚"
+      ],
+      "themesSub": [
+        "貢献"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "評価を求めすぎず、人の役に立つ姿勢を持つ。",
+      "sourceName": "雨ニモマケズ",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/000081/files/45630_23908.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0108",
+      "text": "運命は性格の中にある。",
+      "author": "芥川龍之介",
+      "authorNote": "大正期の小説家。",
+      "reason": "習慣と人生を結び付ける。",
+      "smallStep": "直したい癖を一つ観察する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "自己理解"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "日々の性格や習慣が、人生の方向をつくる。",
+      "sourceName": "侏儒の言葉",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/000879/files/158_15132.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0109",
+      "text": "人生は一箱のマッチに似ている。重大に扱うのはばかばかしい。重大に扱わなければ危険である。",
+      "author": "芥川龍之介",
+      "authorNote": "大正期の小説家。",
+      "reason": "深刻さの適度な距離を示す。",
+      "smallStep": "心配事を「重大／小事」に分ける。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "人生を重くしすぎず、軽んじすぎない。",
+      "sourceName": "侏儒の言葉",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/000879/files/158_15132.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0110",
+      "text": "我々は人生の道路に、始めから行先を決めて歩いているのではない。",
+      "author": "芥川龍之介",
+      "authorNote": "大正期の小説家。",
+      "reason": "進路の不確実さを受け入れられる。",
+      "smallStep": "次の曲がり角までの一歩を決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "進みながら行き先が見えてくることもある。",
+      "sourceName": "侏儒の言葉",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/000879/files/158_15132.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0111",
+      "text": "誰もが世界を変えようと考えるが、自分を変えようとは考えない。",
+      "author": "レフ・トルストイ",
+      "authorNote": "ロシアの小説家・思想家。",
+      "reason": "批判を自己改善へ変える。",
+      "smallStep": "自分が変えられる一点を実行する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "人に腹を立てている日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "自己理解"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+      "meaning": "大きな批判の前に、自分の行動を変える。",
+      "sourceName": "Three Methods of Reform（帰属資料）",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/author/136",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "AR-0112",
+      "text": "幸福な家庭はみな似ているが、不幸な家庭はそれぞれに不幸である。",
+      "author": "レフ・トルストイ",
+      "authorNote": "ロシアの小説家・思想家。",
+      "reason": "家族を一括りにせず理解する入口になる。",
+      "smallStep": "家族一人の事情を聞く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "家族を大切にしたい日"
+      ],
+      "themesMain": [
+        "家族"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "All happy families are alike; each unhappy family is unhappy in its own way.",
+      "meaning": "家庭の問題には、それぞれ固有の事情がある。",
+      "sourceName": "Anna Karenina",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1399",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0113",
+      "text": "忍耐と時間、この二人が最強の戦士だ。",
+      "author": "レフ・トルストイ",
+      "authorNote": "ロシアの小説家・思想家。",
+      "reason": "焦りを落ち着かせる。",
+      "smallStep": "今日は結論を出さず一晩置く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "休むことを許してほしい日"
+      ],
+      "themesMain": [
+        "忍耐"
+      ],
+      "themesSub": [
+        "休息"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "The two most powerful warriors are patience and time.",
+      "meaning": "急いで決着させず、時間を味方につける。",
+      "sourceName": "War and Peace",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2600",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0114",
+      "text": "自分だけの部屋と年に五百ポンドがなければ、女性が小説を書くことはできない。",
+      "author": "ヴァージニア・ウルフ",
+      "authorNote": "英国の小説家・評論家。",
+      "reason": "集中環境の重要性を示す。",
+      "smallStep": "自分だけの作業場所を15分確保する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "自立"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "A woman must have money and a room of her own if she is to write fiction.",
+      "meaning": "創作には才能だけでなく、時間・空間・経済的基盤が必要。",
+      "sourceName": "A Room of One’s Own",
+      "sourceUrl": "https://gutenberg.net.au/ebooks02/0200791.txt",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0115",
+      "text": "一日一日を別々の人生として見なそう。",
+      "author": "ヴァージニア・ウルフ",
+      "authorNote": "英国の小説家・評論家。",
+      "reason": "不完全な材料から始められる。",
+      "smallStep": "手元の材料だけで5分作る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "創造"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Arrange whatever pieces come your way.",
+      "meaning": "手元に来た断片を、自分なりに組み合わせて生きる。",
+      "sourceName": "The Diary of Virginia Woolf（記録）",
+      "sourceUrl": "https://www.virginiawoolfsociety.org.uk/resources/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "AR-0116",
+      "text": "大きなことは、衝動だけでなく、小さなことの積み重ねによってなされる。",
+      "author": "フィンセント・ファン・ゴッホ",
+      "authorNote": "オランダ出身の画家。書簡を多数残した。",
+      "reason": "日々の制作や学習に合う。",
+      "smallStep": "小さな部品を一つ完成させる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "創造"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Great things are not done by impulse, but by a series of small things brought together.",
+      "meaning": "創作や仕事は小さな工程の連続で進む。",
+      "sourceName": "Letter to Theo van Gogh, 1882",
+      "sourceUrl": "https://vangoghletters.org/vg/letters.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0117",
+      "text": "何かを試す勇気がなければ、人生に何の意味があるだろう。",
+      "author": "フィンセント・ファン・ゴッホ",
+      "authorNote": "オランダ出身の画家。書簡を多数残した。",
+      "reason": "挑戦への率直な問いになる。",
+      "smallStep": "失敗しても安全な試みを一つする。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "勇気"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "What would life be if we had no courage to attempt anything?",
+      "meaning": "試す勇気が人生を動かす。",
+      "sourceName": "Letter to Theo van Gogh",
+      "sourceUrl": "https://vangoghletters.org/vg/letters.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0118",
+      "text": "私は自然を誇張し、ときには変える。しかし全体像を発明することはない。",
+      "author": "フィンセント・ファン・ゴッホ",
+      "authorNote": "オランダ出身の画家。書簡を多数残した。",
+      "reason": "観察と表現のバランスを示す。",
+      "smallStep": "目の前の物を1分観察して描写する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "創造"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "I exaggerate, I sometimes make changes to the subject, but still I don’t invent the whole of the painting.",
+      "meaning": "創作は現実を見ることと、自分の表現を加えることの両方。",
+      "sourceName": "Letter to Theo van Gogh",
+      "sourceUrl": "https://vangoghletters.org/vg/letters.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0119",
+      "text": "芸術は、真実を理解させる嘘である。",
+      "author": "パブロ・ピカソ",
+      "authorNote": "スペイン出身の画家・彫刻家。20世紀美術を代表する。",
+      "reason": "芸術の役割を短く示す。",
+      "smallStep": "好きな作品から感じた真実を一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "創造"
+      ],
+      "themesSub": [
+        "真実"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Art is a lie that makes us realize truth.",
+      "meaning": "創作上の虚構が、現実の本質を見せることがある。",
+      "sourceName": "The Arts, 1923 interview",
+      "sourceUrl": "https://www.moma.org/artists/4609",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "AR-0120",
+      "text": "私は探さない。見つける。",
+      "author": "パブロ・ピカソ",
+      "authorNote": "スペイン出身の画家・彫刻家。20世紀美術を代表する。",
+      "reason": "手を動かす学びを促す。",
+      "smallStep": "答えを探す前に一つ試作する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "勉強が進まない日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "創造"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Je ne cherche pas, je trouve.",
+      "meaning": "考え続けるだけでなく、制作の中で発見する。",
+      "sourceName": "Picasso statement / museum archive",
+      "sourceUrl": "https://www.museepicassoparis.fr/en/pablo-picasso",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "AR-0121",
+      "text": "何よりもまず、自分自身に誠実であれ。",
+      "author": "ウィリアム・シェイクスピア",
+      "authorNote": "英国ルネサンス期を代表する劇作家・詩人。",
+      "reason": "自律について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "自律"
+      ],
+      "themesSub": [
+        "信用"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "This above all: to thine own self be true.",
+      "meaning": "何よりもまず、自分自身に誠実であれ。",
+      "sourceName": "The Complete Works of William Shakespeare",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/100",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0122",
+      "text": "備えがすべてだ。",
+      "author": "ウィリアム・シェイクスピア",
+      "authorNote": "英国ルネサンス期を代表する劇作家・詩人。",
+      "reason": "準備について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "準備"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "The readiness is all.",
+      "meaning": "備えがすべてだ。",
+      "sourceName": "The Complete Works of William Shakespeare",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/100",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0123",
+      "text": "疑いは裏切り者で、得られたはずの良いものを失わせる。",
+      "author": "ウィリアム・シェイクスピア",
+      "authorNote": "英国ルネサンス期を代表する劇作家・詩人。",
+      "reason": "迷いについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "迷い"
+      ],
+      "themesSub": [
+        "勇気"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Our doubts are traitors, and make us lose the good we oft might win.",
+      "meaning": "疑いは裏切り者で、得られたはずの良いものを失わせる。",
+      "sourceName": "The Complete Works of William Shakespeare",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/100",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0124",
+      "text": "物事自体に善悪はなく、考え方がそうさせる。",
+      "author": "ウィリアム・シェイクスピア",
+      "authorNote": "英国ルネサンス期を代表する劇作家・詩人。",
+      "reason": "冷静について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "事実と解釈を一行ずつ分けて書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "判断"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "There is nothing either good or bad, but thinking makes it so.",
+      "meaning": "物事自体に善悪はなく、考え方がそうさせる。",
+      "sourceName": "The Complete Works of William Shakespeare",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/100",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0125",
+      "text": "人生の織物は、善い糸と悪い糸が混ざってできている。",
+      "author": "ウィリアム・シェイクスピア",
+      "authorNote": "英国ルネサンス期を代表する劇作家・詩人。",
+      "reason": "生き方について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "大切にしたいことを一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "生き方"
+      ],
+      "themesSub": [
+        "受容"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "The web of our life is of a mingled yarn, good and ill together.",
+      "meaning": "人生の織物は、善い糸と悪い糸が混ざってできている。",
+      "sourceName": "The Complete Works of William Shakespeare",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/100",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0126",
+      "text": "心の優しさに勝る魅力はない。",
+      "author": "ジェイン・オースティン",
+      "authorNote": "英国の小説家。社会と人間心理を鋭く描いた。",
+      "reason": "優しさについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "優しさ"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "There is no charm equal to tenderness of heart.",
+      "meaning": "心の優しさに勝る魅力はない。",
+      "sourceName": "Pride and Prejudice",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0127",
+      "text": "過去は、思い出して喜びをもたらす範囲でだけ考えよう。",
+      "author": "ジェイン・オースティン",
+      "authorNote": "英国の小説家。社会と人間心理を鋭く描いた。",
+      "reason": "後悔について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "後悔"
+      ],
+      "themesSub": [
+        "現在"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Think only of the past as its remembrance gives you pleasure.",
+      "meaning": "過去は、思い出して喜びをもたらす範囲でだけ考えよう。",
+      "sourceName": "Pride and Prejudice",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0128",
+      "text": "自分にふさわしい以上に幸せであることに、満足することを学ばなくては。",
+      "author": "ジェイン・オースティン",
+      "authorNote": "英国の小説家。社会と人間心理を鋭く描いた。",
+      "reason": "感謝について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "感謝"
+      ],
+      "themesSub": [
+        "幸福"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "I must learn to be content with being happier than I deserve.",
+      "meaning": "自分にふさわしい以上に幸せであることに、満足することを学ばなくては。",
+      "sourceName": "Pride and Prejudice",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0129",
+      "text": "怒っている人がいつも賢いとは限らない。",
+      "author": "ジェイン・オースティン",
+      "authorNote": "英国の小説家。社会と人間心理を鋭く描いた。",
+      "reason": "怒りについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "返事の前に深呼吸を三回する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "怒り"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Angry people are not always wise.",
+      "meaning": "怒っている人がいつも賢いとは限らない。",
+      "sourceName": "Pride and Prejudice",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0130",
+      "text": "恋をすると、私たちはみな愚かになる。",
+      "author": "ジェイン・オースティン",
+      "authorNote": "英国の小説家。社会と人間心理を鋭く描いた。",
+      "reason": "家族について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "家族"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "We are all fools in love.",
+      "meaning": "恋をすると、私たちはみな愚かになる。",
+      "sourceName": "Pride and Prejudice",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0131",
+      "text": "誰かの重荷を軽くする人は、この世界で無用ではない。",
+      "author": "チャールズ・ディケンズ",
+      "authorNote": "英国ヴィクトリア朝を代表する小説家。",
+      "reason": "思いやりについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "身近な人に短い感謝を伝える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "思いやり"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "No one is useless in this world who lightens the burden of another.",
+      "meaning": "誰かの重荷を軽くする人は、この世界で無用ではない。",
+      "sourceName": "The Works of Charles Dickens",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/author/37",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0132",
+      "text": "それは最良の時代であり、最悪の時代でもあった。",
+      "author": "チャールズ・ディケンズ",
+      "authorNote": "英国ヴィクトリア朝を代表する小説家。",
+      "reason": "変化について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "変化"
+      ],
+      "themesSub": [
+        "生き方"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "It was the best of times, it was the worst of times.",
+      "meaning": "それは最良の時代であり、最悪の時代でもあった。",
+      "sourceName": "The Works of Charles Dickens",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/author/37",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0133",
+      "text": "頭の知恵と、心の知恵がある。",
+      "author": "チャールズ・ディケンズ",
+      "authorNote": "英国ヴィクトリア朝を代表する小説家。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "優しさ"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "There is a wisdom of the head, and a wisdom of the heart.",
+      "meaning": "頭の知恵と、心の知恵がある。",
+      "sourceName": "The Works of Charles Dickens",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/author/37",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0134",
+      "text": "愛する心こそ、最も真実な知恵だ。",
+      "author": "チャールズ・ディケンズ",
+      "authorNote": "英国ヴィクトリア朝を代表する小説家。",
+      "reason": "家族について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "家族"
+      ],
+      "themesSub": [
+        "思いやり"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "A loving heart is the truest wisdom.",
+      "meaning": "愛する心こそ、最も真実な知恵だ。",
+      "sourceName": "The Works of Charles Dickens",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/author/37",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0135",
+      "text": "心を開いた相手に、口を閉ざしてはいけない。",
+      "author": "チャールズ・ディケンズ",
+      "authorNote": "英国ヴィクトリア朝を代表する小説家。",
+      "reason": "人間関係について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "人間関係"
+      ],
+      "themesSub": [
+        "家族"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Never close your lips to those whom you have already opened your heart.",
+      "meaning": "心を開いた相手に、口を閉ざしてはいけない。",
+      "sourceName": "The Works of Charles Dickens",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/author/37",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0136",
+      "text": "定義することは、限界を設けることだ。",
+      "author": "オスカー・ワイルド",
+      "authorNote": "アイルランド出身の劇作家・小説家・詩人。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "変化"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "To define is to limit.",
+      "meaning": "定義することは、限界を設けることだ。",
+      "sourceName": "The Picture of Dorian Gray",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0137",
+      "text": "経験とは、人が自分の過ちにつけた名前にすぎない。",
+      "author": "オスカー・ワイルド",
+      "authorNote": "アイルランド出身の劇作家・小説家・詩人。",
+      "reason": "失敗について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "失敗"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Experience is merely the name men gave to their mistakes.",
+      "meaning": "経験とは、人が自分の過ちにつけた名前にすぎない。",
+      "sourceName": "The Picture of Dorian Gray",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0138",
+      "text": "私たちは皆どぶの中にいるが、星を見上げている人もいる。",
+      "author": "オスカー・ワイルド",
+      "authorNote": "アイルランド出身の劇作家・小説家・詩人。",
+      "reason": "希望について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "明日楽しみにできることを一つ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "挫折"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "We are all in the gutter, but some of us are looking at the stars.",
+      "meaning": "私たちは皆どぶの中にいるが、星を見上げている人もいる。",
+      "sourceName": "The Picture of Dorian Gray",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0139",
+      "text": "真実はめったに純粋ではなく、決して単純でもない。",
+      "author": "オスカー・ワイルド",
+      "authorNote": "アイルランド出身の劇作家・小説家・詩人。",
+      "reason": "真実について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "真実"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "The truth is rarely pure and never simple.",
+      "meaning": "真実はめったに純粋ではなく、決して単純でもない。",
+      "sourceName": "The Picture of Dorian Gray",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0140",
+      "text": "自分を愛することは、生涯続く恋の始まりだ。",
+      "author": "オスカー・ワイルド",
+      "authorNote": "アイルランド出身の劇作家・小説家・詩人。",
+      "reason": "自信について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日できたことを一つ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "幸福"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "To love oneself is the beginning of a lifelong romance.",
+      "meaning": "自分を愛することは、生涯続く恋の始まりだ。",
+      "sourceName": "The Picture of Dorian Gray",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0141",
+      "text": "信念とは、夜明け前の暗闇で光を感じて歌う鳥だ。",
+      "author": "ラビンドラナート・タゴール",
+      "authorNote": "インドの詩人・思想家。アジア初のノーベル文学賞受賞者。",
+      "reason": "希望について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "明日楽しみにできることを一つ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "勇気"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Faith is the bird that feels the light and sings when the dawn is still dark.",
+      "meaning": "信念とは、夜明け前の暗闇で光を感じて歌う鳥だ。",
+      "sourceName": "Gitanjali",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/7164",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0142",
+      "text": "水を眺めて立っているだけでは、海を渡れない。",
+      "author": "ラビンドラナート・タゴール",
+      "authorNote": "インドの詩人・思想家。アジア初のノーベル文学賞受賞者。",
+      "reason": "行動について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "最初の一動作だけ、今すぐ始める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "You can’t cross the sea merely by standing and staring at the water.",
+      "meaning": "水を眺めて立っているだけでは、海を渡れない。",
+      "sourceName": "Gitanjali",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/7164",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0143",
+      "text": "蝶は月日ではなく瞬間を数え、それで十分な時間を持つ。",
+      "author": "ラビンドラナート・タゴール",
+      "authorNote": "インドの詩人・思想家。アジア初のノーベル文学賞受賞者。",
+      "reason": "現在について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "現在"
+      ],
+      "themesSub": [
+        "時間"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "The butterfly counts not months but moments, and has time enough.",
+      "meaning": "蝶は月日ではなく瞬間を数え、それで十分な時間を持つ。",
+      "sourceName": "Gitanjali",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/7164",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0144",
+      "text": "葉先の露のように、時の縁で軽やかに人生を踊らせよう。",
+      "author": "ラビンドラナート・タゴール",
+      "authorNote": "インドの詩人・思想家。アジア初のノーベル文学賞受賞者。",
+      "reason": "生き方について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "大切にしたいことを一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "生き方"
+      ],
+      "themesSub": [
+        "現在"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Let your life lightly dance on the edges of Time like dew on the tip of a leaf.",
+      "meaning": "葉先の露のように、時の縁で軽やかに人生を踊らせよう。",
+      "sourceName": "Gitanjali",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/7164",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0145",
+      "text": "すべての誤りに扉を閉ざせば、真実も締め出される。",
+      "author": "ラビンドラナート・タゴール",
+      "authorNote": "インドの詩人・思想家。アジア初のノーベル文学賞受賞者。",
+      "reason": "失敗について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "失敗"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "If you shut the door to all errors, truth will be shut out.",
+      "meaning": "すべての誤りに扉を閉ざせば、真実も締め出される。",
+      "sourceName": "Gitanjali",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/7164",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "AR-0146",
+      "text": "私は探し、努力し、心のすべてを注いでいる。",
+      "author": "フィンセント・ファン・ゴッホ",
+      "authorNote": "オランダ出身の画家。書簡を多数残した。",
+      "reason": "努力について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "15分だけ集中する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "努力"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I am seeking. I am striving. I am in it with all my heart.",
+      "meaning": "私は探し、努力し、心のすべてを注いでいる。",
+      "sourceName": "Van Gogh Letters",
+      "sourceUrl": "https://vangoghletters.org/vg/letters.html",
+      "sourceGrade": "A"
+    }
+  ]
+}

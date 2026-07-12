@@ -1,0 +1,1252 @@
+{
+  "version": 2,
+  "mode": "zen",
+  "generatedAt": "2026-07-12T03:18:32.470Z",
+  "count": 46,
+  "quotes": [
+    {
+      "id": "BZ-0001",
+      "text": "ものごとは心に導かれ、心に形づくられる。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "反応する前の心の置き所を示す。",
+      "smallStep": "深呼吸して、今の気持ちを一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "行動"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought.",
+      "meaning": "言葉や行動の前に、心の向きを整えることが大切。",
+      "sourceName": "Dhammapada 1",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0002",
+      "text": "憎しみは憎しみによっては鎮まらない。憎まないことによって鎮まる。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "家庭内の衝突にも使える普遍的な戒め。",
+      "smallStep": "返事を10分遅らせる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "人に腹を立てている日"
+      ],
+      "themesMain": [
+        "許し"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased.",
+      "meaning": "怒りの連鎖を止めるのは、報復ではなく非憎しみ。",
+      "sourceName": "Dhammapada 5",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0003",
+      "text": "怠らず励むことは不死への道、怠りは死への道である。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "先延ばしを短く断つ力がある。",
+      "smallStep": "5分だけ着手する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Heedfulness is the path to the Deathless. Heedlessness is the path to death.",
+      "meaning": "注意深く続けることが、よく生きる道になる。",
+      "sourceName": "Dhammapada 21",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0004",
+      "text": "眠れない者に夜は長く、疲れた者に道は長い。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "つらさを責めずに認められる。",
+      "smallStep": "今夜の就寝を30分早める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "癒されたい日"
+      ],
+      "themesMain": [
+        "休息"
+      ],
+      "themesSub": [
+        "忍耐"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Long is the night to the sleepless; long is the league to the weary.",
+      "meaning": "苦しい時は時間が長く感じられる。まず疲れを認める。",
+      "sourceName": "Dhammapada 60",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.05.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0005",
+      "text": "自分こそ自分のよりどころである。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "依存ではなく自己信頼を促す。",
+      "smallStep": "自分で決められることを一つ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "自立"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Oneself is one’s own protector; what other protector could there be?",
+      "meaning": "最後に自分を整え、守る役目は自分にある。",
+      "sourceName": "Dhammapada 160",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.12.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0006",
+      "text": "千の空しい言葉より、聞いて心が静まる一語がよい。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "家庭での言葉選びに直結する。",
+      "smallStep": "今日は短く、やさしく伝える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "家族を大切にしたい日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "言葉"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Better than a thousand useless words is one useful word, hearing which one attains peace.",
+      "meaning": "量よりも、人を静める本質的な一言を選ぶ。",
+      "sourceName": "Dhammapada 100",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.08.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0007",
+      "text": "怒りを怒らないことで征服せよ。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "具体的な対人行動に落とせる。",
+      "smallStep": "声の大きさを一段下げる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "人に腹を立てている日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Conquer the angry one by not getting angry.",
+      "meaning": "相手の怒りに同じ熱で返さない。",
+      "sourceName": "Dhammapada 223",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0008",
+      "text": "健康は最大の利得、満足は最大の富である。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "日常の恵みに意識を戻せる。",
+      "smallStep": "水を一杯飲み、体調を確認する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "調子が良くて油断しそうな日"
+      ],
+      "themesMain": [
+        "感謝"
+      ],
+      "themesSub": [
+        "健康"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Health is the greatest gift, contentment is the greatest wealth.",
+      "meaning": "健康と足るを知る心は、所有物以上の財産。",
+      "sourceName": "Dhammapada 204",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.15.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0009",
+      "text": "仏道をならふといふは、自己をならふなり。",
+      "author": "道元",
+      "authorNote": "鎌倉時代の禅僧。曹洞宗を開き『正法眼蔵』を著した。",
+      "reason": "問いを外から内へ戻す言葉。",
+      "smallStep": "自分が本当に望むことを一行書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "自己理解"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "道を学ぶことは、自分自身を深く知ること。",
+      "sourceName": "正法眼蔵 現成公案",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/001375/files/59845_74958.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0010",
+      "text": "自己をならふといふは、自己をわするるなり。",
+      "author": "道元",
+      "authorNote": "鎌倉時代の禅僧。曹洞宗を開き『正法眼蔵』を著した。",
+      "reason": "自己中心性への静かな戒め。",
+      "smallStep": "相手の話を遮らず最後まで聞く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "調子が良くて油断しそうな日"
+      ],
+      "themesMain": [
+        "謙虚"
+      ],
+      "themesSub": [
+        "自己理解"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "自分への執着を離すことで、広く世界を見られる。",
+      "sourceName": "正法眼蔵 現成公案",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/001375/files/59845_74958.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0011",
+      "text": "自己をわするるといふは、万法に証せらるるなり。",
+      "author": "道元",
+      "authorNote": "鎌倉時代の禅僧。曹洞宗を開き『正法眼蔵』を著した。",
+      "reason": "世界とのつながりを感じさせる。",
+      "smallStep": "窓の外を1分観察する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "癒されたい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "謙虚"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "自分を手放すと、周囲のあらゆるものから学べる。",
+      "sourceName": "正法眼蔵 現成公案",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/001375/files/59845_74958.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0012",
+      "text": "春は花、夏ほととぎす、秋は月、冬雪さえて冷しかりけり。",
+      "author": "道元",
+      "authorNote": "鎌倉時代の禅僧。曹洞宗を開き『正法眼蔵』を著した。",
+      "reason": "日常の美しさに戻れる。",
+      "smallStep": "今日の季節を一つ写真に残す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "癒されたい日"
+      ],
+      "themesMain": [
+        "感謝"
+      ],
+      "themesSub": [
+        "自然"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "季節それぞれの姿を、そのまま味わう。",
+      "sourceName": "本来の面目（和歌）",
+      "sourceUrl": "https://www.sotozen-net.or.jp/propagation/daishin/daishin13",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "BZ-0013",
+      "text": "善人なほもて往生をとぐ、いはんや悪人をや。",
+      "author": "親鸞",
+      "authorNote": "鎌倉時代の僧。浄土真宗の宗祖。",
+      "reason": "有名句を文脈付きで考える入口になる。",
+      "smallStep": "自分の弱さを一つ認める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "謙虚"
+      ],
+      "themesSub": [
+        "許し"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "自力への思い上がりを離れ、救いの対象を考える逆説。",
+      "sourceName": "歎異抄 第三条",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/001094/files/42692_25736.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0014",
+      "text": "ただ念仏して、弥陀にたすけられまゐらすべし。",
+      "author": "親鸞",
+      "authorNote": "鎌倉時代の僧。浄土真宗の宗祖。",
+      "reason": "迷いの中で軸へ帰る言葉。",
+      "smallStep": "今日の判断基準を一つに絞る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "信頼"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "meaning": "自分の計らいを離れ、教えに身を任せる。",
+      "sourceName": "歎異抄 第二条",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/001094/files/42692_25736.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0015",
+      "text": "念仏は、まことに浄土にむまるるたねにてやはんべるらん、また地獄におつべき業にてやはんべるらん。",
+      "author": "親鸞",
+      "authorNote": "鎌倉時代の僧。浄土真宗の宗祖。",
+      "reason": "不確実さの中の決断を支える。",
+      "smallStep": "迷いの理由を三つ書き、最重要を丸で囲む。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "決断"
+      ],
+      "themesSub": [
+        "信頼"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "meaning": "結果を知り尽くせなくても、自分が信じる道を選ぶ。",
+      "sourceName": "歎異抄 第二条",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/001094/files/42692_25736.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0016",
+      "text": "わがこころのよくて、ころさぬにはあらず。",
+      "author": "親鸞",
+      "authorNote": "鎌倉時代の僧。浄土真宗の宗祖。",
+      "reason": "状況と人間の弱さを直視させる。",
+      "smallStep": "人を裁く言葉を一度飲み込む。",
+      "sourceStatus": "verified",
+      "situations": [
+        "調子が良くて油断しそうな日"
+      ],
+      "themesMain": [
+        "戒め"
+      ],
+      "themesSub": [
+        "謙虚"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "自分が善いから過ちを犯さない、と簡単には言えない。",
+      "sourceName": "歎異抄 第十三条",
+      "sourceUrl": "https://www.aozora.gr.jp/cards/001094/files/42692_25736.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0017",
+      "text": "朝には紅顔ありて、夕には白骨となれる身なり。",
+      "author": "蓮如",
+      "authorNote": "室町時代の僧。浄土真宗本願寺派の中興の祖。",
+      "reason": "有限な一日を意識させる。",
+      "smallStep": "先延ばしの連絡を一本する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "無常"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "meaning": "命は変化しやすい。今日を粗末にしない。",
+      "sourceName": "御文章 白骨章",
+      "sourceUrl": "https://www.hongwanji.or.jp/mioshie/words/000815.html",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "BZ-0018",
+      "text": "自分が愛しいと知るなら、自分をよく守るべきである。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "自愛と自己管理を結びつける。",
+      "smallStep": "今日は一つ無理を断る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "休むことを許してほしい日"
+      ],
+      "themesMain": [
+        "自愛"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "If one holds oneself dear, one should diligently watch oneself.",
+      "meaning": "自分を大切にするなら、行動にも注意を向ける。",
+      "sourceName": "Dhammapada 157",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.12.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0019",
+      "text": "他人の過ちではなく、自分のしたこと、しなかったことを見よ。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "怒りを自己点検へ変えられる。",
+      "smallStep": "自分が改善できる一点を書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "人に腹を立てている日"
+      ],
+      "themesMain": [
+        "戒め"
+      ],
+      "themesSub": [
+        "自己理解"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Let one not find fault with others, nor see the omissions and commissions of others. But let one see one’s own acts, done and undone.",
+      "meaning": "他人の欠点より、自分の行動を振り返る。",
+      "sourceName": "Dhammapada 50",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.04.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0020",
+      "text": "水滴が落ち続ければ、水瓶は満ちる。",
+      "author": "ブッダ",
+      "authorNote": "仏教の開祖。初期仏典に教えが伝えられる。",
+      "reason": "小さな習慣の影響を具体的に示す。",
+      "smallStep": "やめたい習慣のきっかけを一つ外す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Little by little the fool is filled with evil, as a pot is filled by drops of water.",
+      "meaning": "小さな行いも積み重なる。悪い習慣を軽く見ない。",
+      "sourceName": "Dhammapada 121",
+      "sourceUrl": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.09.budd.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0021",
+      "text": "わが子の死を越え、悲しみと恐れに支配されなくなった。",
+      "author": "キサーゴータミー",
+      "authorNote": "初期仏教の長老尼。死別の悲しみを経て出家したと伝えられる。",
+      "reason": "再出発について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "再出発"
+      ],
+      "themesSub": [
+        "悲しみ"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I’ve got past the death of my son, and with that I’m done with men. I don’t grieve, I don’t cry, and I’m not afraid of you, sir.",
+      "meaning": "わが子の死を越え、悲しみと恐れに支配されなくなった。",
+      "sourceName": "Therīgāthā 10.1",
+      "sourceUrl": "https://suttacentral.net/thig10.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0022",
+      "text": "道を喜び、心を育て、最上の安らぎに至った。",
+      "author": "キサーゴータミー",
+      "authorNote": "初期仏教の長老尼。死別の悲しみを経て出家したと伝えられる。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "現在"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Relishing the path, developing the absorptions, I’ve realized the supreme sanctuary.",
+      "meaning": "道を喜び、心を育て、最上の安らぎに至った。",
+      "sourceName": "Therīgāthā 10.1",
+      "sourceUrl": "https://suttacentral.net/thig10.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0023",
+      "text": "快楽への執着が滅び、暗闇の塊は砕かれた。",
+      "author": "キサーゴータミー",
+      "authorNote": "初期仏教の長老尼。死別の悲しみを経て出家したと伝えられる。",
+      "reason": "自律について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "自律"
+      ],
+      "themesSub": [
+        "変化"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Everywhere the love of pleasure is destroyed, and the mass of darkness is shattered.",
+      "meaning": "快楽への執着が滅び、暗闇の塊は砕かれた。",
+      "sourceName": "Therīgāthā 10.1",
+      "sourceUrl": "https://suttacentral.net/thig10.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0024",
+      "text": "死の軍勢に打ち勝ち、汚れなく生きる。",
+      "author": "キサーゴータミー",
+      "authorNote": "初期仏教の長老尼。死別の悲しみを経て出家したと伝えられる。",
+      "reason": "勇気について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "勇気"
+      ],
+      "themesSub": [
+        "再出発"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "I’ve defeated the army of death, and live without defilements.",
+      "meaning": "死の軍勢に打ち勝ち、汚れなく生きる。",
+      "sourceName": "Therīgāthā 10.1",
+      "sourceUrl": "https://suttacentral.net/thig10.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0025",
+      "text": "私の心は自由になった。",
+      "author": "キサーゴータミー",
+      "authorNote": "初期仏教の長老尼。死別の悲しみを経て出家したと伝えられる。",
+      "reason": "自由について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "自由"
+      ],
+      "themesSub": [
+        "希望"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "My heart is free.",
+      "meaning": "私の心は自由になった。",
+      "sourceName": "Therīgāthā 10.1",
+      "sourceUrl": "https://suttacentral.net/thig10.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0026",
+      "text": "畑を耕し種をまくように、日々の仕事が暮らしを支える。",
+      "author": "パターチャーラー",
+      "authorNote": "初期仏教を代表する長老尼の一人。律に通じた尼として伝えられる。",
+      "reason": "仕事について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日の成果を一つだけ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "努力"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Plowing the field with plows, sowing seed in the ground, men support their wives and children, and so young men find riches.",
+      "meaning": "畑を耕し種をまくように、日々の仕事が暮らしを支える。",
+      "sourceName": "Therīgāthā 5.10",
+      "sourceUrl": "https://suttacentral.net/thig5.10/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0027",
+      "text": "怠らず教えを実践しているのに、なぜ心はまだ自由でないのか。",
+      "author": "パターチャーラー",
+      "authorNote": "初期仏教を代表する長老尼の一人。律に通じた尼として伝えられる。",
+      "reason": "迷いについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "迷い"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "So why, when I am pure in precepts, and do the teacher’s bidding, lazy nor conceited, is my heart not free?",
+      "meaning": "怠らず教えを実践しているのに、なぜ心はまだ自由でないのか。",
+      "sourceName": "Therīgāthā 5.10",
+      "sourceUrl": "https://suttacentral.net/thig5.10/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0028",
+      "text": "足を洗う水が高みから低みへ流れるのを見て、心を整えた。",
+      "author": "パターチャーラー",
+      "authorNote": "初期仏教を代表する長老尼の一人。律に通じた尼として伝えられる。",
+      "reason": "冷静について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "事実と解釈を一行ずつ分けて書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "現在"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "When I saw the water for washing my feet flow from high to low, I composed my mind, like a fine thoroughbred steed.",
+      "meaning": "足を洗う水が高みから低みへ流れるのを見て、心を整えた。",
+      "sourceName": "Therīgāthā 5.10",
+      "sourceUrl": "https://suttacentral.net/thig5.10/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0029",
+      "text": "灯りを手に小屋へ入り、寝床を確かめ、座についた。",
+      "author": "パターチャーラー",
+      "authorNote": "初期仏教を代表する長老尼の一人。律に通じた尼として伝えられる。",
+      "reason": "習慣について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "習慣"
+      ],
+      "themesSub": [
+        "集中"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Taking a lamp, I entered my hut, inspected the bed, and sat upon the mat.",
+      "meaning": "灯りを手に小屋へ入り、寝床を確かめ、座についた。",
+      "sourceName": "Therīgāthā 5.10",
+      "sourceUrl": "https://suttacentral.net/thig5.10/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0030",
+      "text": "灯火が消えるように、私の心は解き放たれた。",
+      "author": "パターチャーラー",
+      "authorNote": "初期仏教を代表する長老尼の一人。律に通じた尼として伝えられる。",
+      "reason": "休息について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "タイマーを5分にして何もしない。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "休息"
+      ],
+      "themesSub": [
+        "自由"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "My heart was freed, like the going out of a lamp.",
+      "meaning": "灯火が消えるように、私の心は解き放たれた。",
+      "sourceName": "Therīgāthā 5.10",
+      "sourceUrl": "https://suttacentral.net/thig5.10/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0031",
+      "text": "心が静まり、智慧があるなら、女性であることが何の妨げになるだろう。",
+      "author": "ソーマー",
+      "authorNote": "初期仏教の長老尼。悪魔の誘惑への毅然とした応答が伝えられる。",
+      "reason": "自信について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日できたことを一つ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "What difference does womanhood make when the mind is serene, and knowledge is present?",
+      "meaning": "心が静まり、智慧があるなら、女性であることが何の妨げになるだろう。",
+      "sourceName": "Therīgāthā 3.8",
+      "sourceUrl": "https://suttacentral.net/thig3.8/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0032",
+      "text": "自分を肩書だけで決めつける心は、迷いにつけ込まれる。",
+      "author": "ソーマー",
+      "authorNote": "初期仏教の長老尼。悪魔の誘惑への毅然とした応答が伝えられる。",
+      "reason": "自律について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "自律"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Someone who might think: “I am woman”, or “I am man”, or “I am anything at all”—is fit for Māra to address.",
+      "meaning": "自分を肩書だけで決めつける心は、迷いにつけ込まれる。",
+      "sourceName": "Therīgāthā 3.8",
+      "sourceUrl": "https://suttacentral.net/thig3.8/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0033",
+      "text": "心が静かで智慧があるとき、教えを正しく見分けられる。",
+      "author": "ソーマー",
+      "authorNote": "初期仏教の長老尼。悪魔の誘惑への毅然とした応答が伝えられる。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "集中"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "When the mind is serene, and knowledge is present, as you rightly discern the Dhamma.",
+      "meaning": "心が静かで智慧があるとき、教えを正しく見分けられる。",
+      "sourceName": "Therīgāthā 3.8",
+      "sourceUrl": "https://suttacentral.net/thig3.8/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0034",
+      "text": "渇望は断ち切られた。",
+      "author": "ソーマー",
+      "authorNote": "初期仏教の長老尼。悪魔の誘惑への毅然とした応答が伝えられる。",
+      "reason": "変化について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "変化"
+      ],
+      "themesSub": [
+        "自律"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Craving is destroyed.",
+      "meaning": "渇望は断ち切られた。",
+      "sourceName": "Therīgāthā 3.8",
+      "sourceUrl": "https://suttacentral.net/thig3.8/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0035",
+      "text": "暗闇の塊は砕かれた。",
+      "author": "ソーマー",
+      "authorNote": "初期仏教の長老尼。悪魔の誘惑への毅然とした応答が伝えられる。",
+      "reason": "希望について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "明日楽しみにできることを一つ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "再出発"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "The mass of darkness is shattered.",
+      "meaning": "暗闇の塊は砕かれた。",
+      "sourceName": "Therīgāthā 3.8",
+      "sourceUrl": "https://suttacentral.net/thig3.8/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0036",
+      "text": "黒かった髪も、老いによって樹皮の繊維のようになった。",
+      "author": "アンバパーリー",
+      "authorNote": "古代インドの名高い遊女で、のちに出家した長老尼。",
+      "reason": "変化について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "変化"
+      ],
+      "themesSub": [
+        "時間"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "My hair was black, the color of bees, with curling tips; now it’s become like bark fibers because of old age.",
+      "meaning": "黒かった髪も、老いによって樹皮の繊維のようになった。",
+      "sourceName": "Therīgāthā 13.1",
+      "sourceUrl": "https://suttacentral.net/thig13.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0037",
+      "text": "真実を語る方の言葉は、そのとおりであった。",
+      "author": "アンバパーリー",
+      "authorNote": "古代インドの名高い遊女で、のちに出家した長老尼。",
+      "reason": "真実について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "真実"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Such is the truth of the truth-speaker’s words.",
+      "meaning": "真実を語る方の言葉は、そのとおりであった。",
+      "sourceName": "Therīgāthā 13.1",
+      "sourceUrl": "https://suttacentral.net/thig13.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0038",
+      "text": "宝石のように輝いた目も、老いによって変わった。",
+      "author": "アンバパーリー",
+      "authorNote": "古代インドの名高い遊女で、のちに出家した長老尼。",
+      "reason": "受容について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "受容"
+      ],
+      "themesSub": [
+        "時間"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "My eyes were brilliant, shining like jewels; now they’re not so good, due to old age.",
+      "meaning": "宝石のように輝いた目も、老いによって変わった。",
+      "sourceName": "Therīgāthā 13.1",
+      "sourceUrl": "https://suttacentral.net/thig13.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0039",
+      "text": "美しかった身体も、今はしわに覆われた。",
+      "author": "アンバパーリー",
+      "authorNote": "古代インドの名高い遊女で、のちに出家した長老尼。",
+      "reason": "受容について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "受容"
+      ],
+      "themesSub": [
+        "変化"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "My body used to be beautiful; now it’s withered, covered with wrinkles.",
+      "meaning": "美しかった身体も、今はしわに覆われた。",
+      "sourceName": "Therīgāthā 13.1",
+      "sourceUrl": "https://suttacentral.net/thig13.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0040",
+      "text": "この身体は衰え、多くの痛みの住まいとなった。",
+      "author": "アンバパーリー",
+      "authorNote": "古代インドの名高い遊女で、のちに出家した長老尼。",
+      "reason": "休息について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "タイマーを5分にして何もしない。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "休息"
+      ],
+      "themesSub": [
+        "生き方"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "This body has become decrepit, the home of many pains.",
+      "meaning": "この身体は衰え、多くの痛みの住まいとなった。",
+      "sourceName": "Therīgāthā 13.1",
+      "sourceUrl": "https://suttacentral.net/thig13.1/en/sujato",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0041",
+      "text": "身と心の全体を使って、道を学ぶ。",
+      "author": "道元",
+      "authorNote": "鎌倉時代の禅僧。曹洞宗を開き『正法眼蔵』を著した。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "集中"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "身心学道といふは、身心をもて学道するなり。",
+      "meaning": "身と心の全体を使って、道を学ぶ。",
+      "sourceName": "正法眼蔵",
+      "sourceUrl": "https://www.aozora.gr.jp/index_pages/person1375.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0042",
+      "text": "物事の盛衰は人によって決まり、人の浮沈は歩む道にかかっている。",
+      "author": "空海",
+      "authorNote": "平安時代の僧。真言宗を開き、宗教・教育・文化に大きな足跡を残した。",
+      "reason": "責任について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "責任"
+      ],
+      "themesSub": [
+        "生き方"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "物の興廃は必ず人に由る。人の昇沈は定めて道にあり。",
+      "meaning": "物事の盛衰は人によって決まり、人の浮沈は歩む道にかかっている。",
+      "sourceName": "性霊集・三教指帰",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/823671",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0043",
+      "text": "心が暗いと、出会うものすべてが災いに見える。",
+      "author": "空海",
+      "authorNote": "平安時代の僧。真言宗を開き、宗教・教育・文化に大きな足跡を残した。",
+      "reason": "冷静について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "事実と解釈を一行ずつ分けて書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "現在"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "心暗きときは、即ち遇うところ悉く禍なり。",
+      "meaning": "心が暗いと、出会うものすべてが災いに見える。",
+      "sourceName": "性霊集・三教指帰",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/823671",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0044",
+      "text": "心が明るければ、触れるものすべてに価値を見いだせる。",
+      "author": "空海",
+      "authorNote": "平安時代の僧。真言宗を開き、宗教・教育・文化に大きな足跡を残した。",
+      "reason": "感謝について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "感謝"
+      ],
+      "themesSub": [
+        "幸福"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "心明らかなるときは、即ち触るるところ皆宝なり。",
+      "meaning": "心が明るければ、触れるものすべてに価値を見いだせる。",
+      "sourceName": "性霊集・三教指帰",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/823671",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0045",
+      "text": "世界と生きものと救いが尽きるまで、私の願いは尽きない。",
+      "author": "空海",
+      "authorNote": "平安時代の僧。真言宗を開き、宗教・教育・文化に大きな足跡を残した。",
+      "reason": "継続について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "同じことを5分だけ続ける。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "思いやり"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "虚空尽き、衆生尽き、涅槃尽きなば、我が願いも尽きん。",
+      "meaning": "世界と生きものと救いが尽きるまで、私の願いは尽きない。",
+      "sourceName": "性霊集・三教指帰",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/823671",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "BZ-0046",
+      "text": "生と死を重ねても、その始まりと終わりはなお深い謎である。",
+      "author": "空海",
+      "authorNote": "平安時代の僧。真言宗を開き、宗教・教育・文化に大きな足跡を残した。",
+      "reason": "生き方について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "大切にしたいことを一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "生き方"
+      ],
+      "themesSub": [
+        "迷い"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "生まれ生まれ生まれ生まれて生の始めに暗く、死に死に死に死んで死の終りに冥し。",
+      "meaning": "生と死を重ねても、その始まりと終わりはなお深い謎である。",
+      "sourceName": "性霊集・三教指帰",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/823671",
+      "sourceGrade": "A"
+    }
+  ]
+}

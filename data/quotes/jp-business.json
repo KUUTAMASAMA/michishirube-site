@@ -1,0 +1,918 @@
+{
+  "version": 2,
+  "mode": "jp-business",
+  "generatedAt": "2026-07-12T03:18:32.471Z",
+  "count": 34,
+  "quotes": [
+    {
+      "id": "JB-0041",
+      "text": "天は人の上に人を造らず、人の下に人を造らずと云へり。",
+      "author": "福澤諭吉",
+      "authorNote": "啓蒙思想家・教育者、慶應義塾の創設者。",
+      "reason": "学ぶ意義を問い直せる。",
+      "smallStep": "10分だけ本を開く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "勉強が進まない日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "自立"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "人は生まれながらに上下が定まるのではない、という出発点。",
+      "sourceName": "学問のすゝめ 初編",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/808242",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0042",
+      "text": "一身独立して一国独立す。",
+      "author": "福澤諭吉",
+      "authorNote": "啓蒙思想家・教育者、慶應義塾の創設者。",
+      "reason": "家庭と社会をつなぐ視点がある。",
+      "smallStep": "自分の責任で終えることを一つ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "自立"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "一人ひとりの自立が、社会の自立につながる。",
+      "sourceName": "学問のすゝめ 第三編",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/808242",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0043",
+      "text": "賢人と愚人との別は、学ぶと学ばざるとによりてできるものなり。",
+      "author": "福澤諭吉",
+      "authorNote": "啓蒙思想家・教育者、慶應義塾の創設者。",
+      "reason": "学習への強い動機になる。",
+      "smallStep": "知らない言葉を一つ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "勉強が進まない日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "継続"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "差を生むのは生まれより、学び続ける姿勢。",
+      "sourceName": "学問のすゝめ 初編",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/808242",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0044",
+      "text": "独立の気力なき者は、国を思ふこと深切ならず。",
+      "author": "福澤諭吉",
+      "authorNote": "啓蒙思想家・教育者、慶應義塾の創設者。",
+      "reason": "依存と責任を考えられる。",
+      "smallStep": "自分で判断する小さなことを一つ選ぶ。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "自立"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "自分で立とうとする気力が、公共への責任にもつながる。",
+      "sourceName": "学問のすゝめ 第三編",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/808242",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0045",
+      "text": "富をなす根源は何かと言えば、仁義道徳。正しい道理の富でなければ、その富は完全に永続することができぬ。",
+      "author": "渋沢栄一",
+      "authorNote": "近代日本の多数の企業・社会事業の設立育成に携わった実業家。",
+      "reason": "成果と倫理を一体で考えられる。",
+      "smallStep": "今日の判断が誰に影響するか確認する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "誠実"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "meaning": "利益は倫理と両立してこそ長く続く。",
+      "sourceName": "論語と算盤",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/956827",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0046",
+      "text": "事業には信用が第一である。",
+      "author": "渋沢栄一",
+      "authorNote": "近代日本の多数の企業・社会事業の設立育成に携わった実業家。",
+      "reason": "家族にも職場にも通じる。",
+      "smallStep": "約束を一つ、期限前に果たす。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "信頼"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "仕事の土台は、短期の得より信頼。",
+      "sourceName": "論語と算盤",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/956827",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0047",
+      "text": "人は全て自主独立すべきものである。",
+      "author": "渋沢栄一",
+      "authorNote": "近代日本の多数の企業・社会事業の設立育成に携わった実業家。",
+      "reason": "主体的な選択を促す。",
+      "smallStep": "人任せにしていることを一つ引き取る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "自立"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "自分の頭で考え、責任を引き受ける。",
+      "sourceName": "論語と算盤",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/956827",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0048",
+      "text": "夢なき者は理想なし、理想なき者は信念なし。",
+      "author": "渋沢栄一",
+      "authorNote": "近代日本の多数の企業・社会事業の設立育成に携わった実業家。",
+      "reason": "将来像を言語化する入口になる。",
+      "smallStep": "半年後にしたいことを一行書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "行動"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "夢を具体的な理想と信念につなげる。",
+      "sourceName": "青淵百話",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/757424",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0049",
+      "text": "うまくいったのは自分の運がよかったのだと考え、うまくいかないときは運がないと思わず、腕がないと思う。",
+      "author": "松下幸之助",
+      "authorNote": "パナソニック創業者。経営哲学を多く残した。",
+      "reason": "成功と失敗の受け止め方が実践的。",
+      "smallStep": "今日うまくいった理由を他者にも一つ帰す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "調子が良くて油断しそうな日"
+      ],
+      "themesMain": [
+        "謙虚"
+      ],
+      "themesSub": [
+        "失敗"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "成功時は謙虚に、失敗時は改善へ向かう。",
+      "sourceName": "人生談義",
+      "sourceUrl": "https://news.panasonic.com/jp/stories/17120",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0050",
+      "text": "素直な心とは、何物にもとらわれることなく物事の真実を見る心。",
+      "author": "松下幸之助",
+      "authorNote": "パナソニック創業者。経営哲学を多く残した。",
+      "reason": "判断前の姿勢を整えられる。",
+      "smallStep": "反対意見の良い点を一つ探す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "先入観をいったん置き、現実をそのまま見る。",
+      "sourceName": "素直な心になるために",
+      "sourceUrl": "https://www.php.co.jp/matsushita/words/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0051",
+      "text": "失敗したところでやめてしまうから失敗になる。成功するところまで続ければ、それは成功になる。",
+      "author": "松下幸之助",
+      "authorNote": "パナソニック創業者。経営哲学を多く残した。",
+      "reason": "再挑戦を支える代表的な経営哲学。",
+      "smallStep": "同じ方法ではなく、一点変えて再試行する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "失敗"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "失敗を途中経過として扱い、改善を続ける。",
+      "sourceName": "松下幸之助 発言集",
+      "sourceUrl": "https://www.php.co.jp/matsushita/words/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0052",
+      "text": "日に新た。",
+      "author": "松下幸之助",
+      "authorNote": "パナソニック創業者。経営哲学を多く残した。",
+      "reason": "毎日のアプリに合う短い言葉。",
+      "smallStep": "机の上を一か所整えて始める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "行動"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "昨日にとらわれず、今日を新しく始める。",
+      "sourceName": "道をひらく",
+      "sourceUrl": "https://www.php.co.jp/matsushita/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0053",
+      "text": "成功は99パーセントの失敗に支えられた1パーセントだ。",
+      "author": "本田宗一郎",
+      "authorNote": "本田技研工業の創業者。技術者・実業家。",
+      "reason": "失敗を学習回数として見直せる。",
+      "smallStep": "失敗から分かったことを一つ残す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "失敗"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "多くの試行錯誤が、わずかな成功を生む。",
+      "sourceName": "Honda公式「語録」",
+      "sourceUrl": "https://global.honda/jp/heritage/episodes/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0054",
+      "text": "チャレンジして失敗を怖れるよりも、何もしないことを怖れろ。",
+      "author": "本田宗一郎",
+      "authorNote": "本田技研工業の創業者。技術者・実業家。",
+      "reason": "行動を強く促す。",
+      "smallStep": "今日中に一件申し込む。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "勇気"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "失敗の恐れより、動かない損失を意識する。",
+      "sourceName": "Honda公式企業史",
+      "sourceUrl": "https://global.honda/jp/heritage/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0055",
+      "text": "人間が進歩するためには、まず第一歩を踏み出すことである。",
+      "author": "本田宗一郎",
+      "authorNote": "本田技研工業の創業者。技術者・実業家。",
+      "reason": "小さな開始に向く。",
+      "smallStep": "道具を出す、ページを開くなど一動作する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "考え続けるだけでなく、試して学ぶ。",
+      "sourceName": "Honda公式企業史",
+      "sourceUrl": "https://global.honda/jp/heritage/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0056",
+      "text": "需要があるからつくるのではない。需要をつくり出すものをつくるのだ。",
+      "author": "本田宗一郎",
+      "authorNote": "本田技研工業の創業者。技術者・実業家。",
+      "reason": "創造的な仕事の視点を与える。",
+      "smallStep": "相手がまだ言葉にしていない不便を一つ探す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "meaning": "既存の要望だけでなく、新しい価値を提案する。",
+      "sourceName": "Honda公式企業史",
+      "sourceUrl": "https://global.honda/jp/heritage/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0057",
+      "text": "人生・仕事の結果＝考え方×熱意×能力。",
+      "author": "稲盛和夫",
+      "authorNote": "京セラ・KDDIの創業者。経営哲学を体系化した。",
+      "reason": "努力の方向と姿勢を同時に点検できる。",
+      "smallStep": "三要素を各10点で自己採点する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "自己理解"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "能力だけでなく、考え方と熱意が結果を左右する。",
+      "sourceName": "京セラフィロソフィ",
+      "sourceUrl": "https://www.kyocera.co.jp/inamori/philosophy/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0058",
+      "text": "動機善なりや、私心なかりしか。",
+      "author": "稲盛和夫",
+      "authorNote": "京セラ・KDDIの創業者。経営哲学を体系化した。",
+      "reason": "重要な判断の倫理チェックになる。",
+      "smallStep": "決断で利益を得る人・困る人を書き出す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "決断"
+      ],
+      "themesSub": [
+        "誠実"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "決断の動機が善く、私利だけではないかを問う。",
+      "sourceName": "稲盛和夫の哲学",
+      "sourceUrl": "https://www.kyocera.co.jp/inamori/philosophy/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0059",
+      "text": "楽観的に構想し、悲観的に計画し、楽観的に実行する。",
+      "author": "稲盛和夫",
+      "authorNote": "京セラ・KDDIの創業者。経営哲学を体系化した。",
+      "reason": "企画から実行までの姿勢が一文にある。",
+      "smallStep": "最悪の障害と対策を一つずつ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "計画"
+      ],
+      "themesSub": [
+        "行動"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "夢は大きく、準備は厳密に、実行は前向きに。",
+      "sourceName": "京セラフィロソフィ",
+      "sourceUrl": "https://www.kyocera.co.jp/inamori/philosophy/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0060",
+      "text": "土俵の真ん中で相撲をとる。",
+      "author": "稲盛和夫",
+      "authorNote": "京セラ・KDDIの創業者。経営哲学を体系化した。",
+      "reason": "期限管理を印象的に伝える。",
+      "smallStep": "締切を一日前倒しして予定に入れる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "準備"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "追い込まれる前に、余裕のある段階で手を打つ。",
+      "sourceName": "京セラフィロソフィ",
+      "sourceUrl": "https://www.kyocera.co.jp/inamori/philosophy/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0061",
+      "text": "常識とは、知恵・感情・意志の三つが調和した状態である。",
+      "author": "渋沢栄一",
+      "authorNote": "近代日本の多数の企業・社会事業の設立育成に携わった実業家。",
+      "reason": "冷静について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "事実と解釈を一行ずつ分けて書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "判断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "常識とは、智、情、意の三者が各々権衡を保ち、平等に発達したもの。",
+      "meaning": "常識とは、知恵・感情・意志の三つが調和した状態である。",
+      "sourceName": "論語と算盤オンライン",
+      "sourceUrl": "https://eiichi.shibusawa.or.jp/features/rongotosoroban/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0062",
+      "text": "学問は難しい言葉を知るだけでなく、実生活に役立つものである。",
+      "author": "福澤諭吉",
+      "authorNote": "啓蒙思想家・教育者、慶應義塾の創設者。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "学問とは、ただむずかしき字を知り、解し難き古文を読み、和歌を楽み、詩を作るなど、世上に実のなき文学をいうにあらず。",
+      "meaning": "学問は難しい言葉を知るだけでなく、実生活に役立つものである。",
+      "sourceName": "学問のすゝめ",
+      "sourceUrl": "https://dl.ndl.go.jp/pid/808242",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0063",
+      "text": "商いは、相手の心を動かす価値を届けること。",
+      "author": "松下幸之助",
+      "authorNote": "パナソニック創業者。経営哲学を多く残した。",
+      "reason": "仕事について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日の成果を一つだけ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "思いやり"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "商売とは、感動を与えることである。",
+      "meaning": "商いは、相手の心を動かす価値を届けること。",
+      "sourceName": "松下幸之助.com",
+      "sourceUrl": "https://konosuke-matsushita.com/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0064",
+      "text": "損得より、人として正しいかを判断基準にする。",
+      "author": "稲盛和夫",
+      "authorNote": "京セラ・KDDIの創業者。経営哲学を体系化した。",
+      "reason": "決断について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "選択肢を二つに絞る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "決断"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "人間として何が正しいかで判断する。",
+      "meaning": "損得より、人として正しいかを判断基準にする。",
+      "sourceName": "稲盛和夫 OFFICIAL SITE",
+      "sourceUrl": "https://www.kyocera.co.jp/inamori/philosophy/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0065",
+      "text": "「最高」で終わりではなく、常に「もっと良く」がある。",
+      "author": "豊田章男",
+      "authorNote": "トヨタ自動車会長。自動車産業とモビリティの変革を率いる。",
+      "reason": "継続について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "同じことを5分だけ続ける。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "謙虚"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "There is no “best,” only “better.”",
+      "meaning": "「最高」で終わりではなく、常に「もっと良く」がある。",
+      "sourceName": "Toyota Global speeches",
+      "sourceUrl": "https://global.toyota/en/company/messages-from-executives/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0066",
+      "text": "私たちは、もっと良いクルマをつくりたい。",
+      "author": "豊田章男",
+      "authorNote": "トヨタ自動車会長。自動車産業とモビリティの変革を率いる。",
+      "reason": "仕事について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日の成果を一つだけ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "目標"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "We want to make ever-better cars.",
+      "meaning": "私たちは、もっと良いクルマをつくりたい。",
+      "sourceName": "Toyota Global speeches",
+      "sourceUrl": "https://global.toyota/en/company/messages-from-executives/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0067",
+      "text": "道が人を鍛え、人がクルマをつくる。",
+      "author": "豊田章男",
+      "authorNote": "トヨタ自動車会長。自動車産業とモビリティの変革を率いる。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "The road teaches the people, and the people make the cars.",
+      "meaning": "道が人を鍛え、人がクルマをつくる。",
+      "sourceName": "Toyota Global speeches",
+      "sourceUrl": "https://global.toyota/en/company/messages-from-executives/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0068",
+      "text": "成長は持続可能でなければならない。",
+      "author": "豊田章男",
+      "authorNote": "トヨタ自動車会長。自動車産業とモビリティの変革を率いる。",
+      "reason": "責任について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "責任"
+      ],
+      "themesSub": [
+        "成功"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "I believe growth must be sustainable.",
+      "meaning": "成長は持続可能でなければならない。",
+      "sourceName": "Toyota Global speeches",
+      "sourceUrl": "https://global.toyota/en/company/messages-from-executives/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0069",
+      "text": "誰にも唯一の正解は分からない。",
+      "author": "豊田章男",
+      "authorNote": "トヨタ自動車会長。自動車産業とモビリティの変革を率いる。",
+      "reason": "迷いについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "迷い"
+      ],
+      "themesSub": [
+        "変化"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "No one knows what the correct answer is.",
+      "meaning": "誰にも唯一の正解は分からない。",
+      "sourceName": "Toyota Global speeches",
+      "sourceUrl": "https://global.toyota/en/company/messages-from-executives/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "JB-0070",
+      "text": "好奇心は創造性の鍵である。",
+      "author": "盛田昭夫",
+      "authorNote": "ソニー共同創業者。日本企業の国際化を推進した実業家。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "創造"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Curiosity is the key to creativity.",
+      "meaning": "好奇心は創造性の鍵である。",
+      "sourceName": "Sony History",
+      "sourceUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0071",
+      "text": "会社は経営者だけに報いるのではなく、働く人と運命を共にすべきだ。",
+      "author": "盛田昭夫",
+      "authorNote": "ソニー共同創業者。日本企業の国際化を推進した実業家。",
+      "reason": "責任について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "責任"
+      ],
+      "themesSub": [
+        "信用"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "The company must not throw money away on huge bonuses for executives or other frivolities but must share its fate with the workers.",
+      "meaning": "会社は経営者だけに報いるのではなく、働く人と運命を共にすべきだ。",
+      "sourceName": "Sony History",
+      "sourceUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0072",
+      "text": "販売話術ではなく、製品そのもので知られる会社にしようと決めた。",
+      "author": "盛田昭夫",
+      "authorNote": "ソニー共同創業者。日本企業の国際化を推進した実業家。",
+      "reason": "信用について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "信用"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "We made up our minds that our company would be known for its products, not for the quality of its salesmanship.",
+      "meaning": "販売話術ではなく、製品そのもので知られる会社にしようと決めた。",
+      "sourceName": "Sony History",
+      "sourceUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0073",
+      "text": "事業で成功するには、他との違いをつくる必要がある。",
+      "author": "盛田昭夫",
+      "authorNote": "ソニー共同創業者。日本企業の国際化を推進した実業家。",
+      "reason": "挑戦について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "成功"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I have always believed that the only way to make a success of a business is to differentiate it from others.",
+      "meaning": "事業で成功するには、他との違いをつくる必要がある。",
+      "sourceName": "Sony History",
+      "sourceUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "JB-0074",
+      "text": "経営は先頭に立って目標を示さなければならない。",
+      "author": "盛田昭夫",
+      "authorNote": "ソニー共同創業者。日本企業の国際化を推進した実業家。",
+      "reason": "目標について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "目標"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Management must take the lead in proposing goals.",
+      "meaning": "経営は先頭に立って目標を示さなければならない。",
+      "sourceName": "Sony History",
+      "sourceUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "sourceGrade": "B"
+    }
+  ]
+}

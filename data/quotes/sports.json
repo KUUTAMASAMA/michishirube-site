@@ -1,0 +1,1173 @@
+{
+  "version": 2,
+  "mode": "sports",
+  "generatedAt": "2026-07-12T03:18:32.472Z",
+  "count": 43,
+  "quotes": [
+    {
+      "id": "SP-0081",
+      "text": "私は人生で何度も何度も失敗した。だから成功した。",
+      "author": "マイケル・ジョーダン",
+      "authorNote": "NBAで活躍したバスケットボール選手。",
+      "reason": "失敗を経験値に変える。",
+      "smallStep": "失敗した回数ではなく次の試行を数える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "失敗"
+      ],
+      "themesSub": [
+        "継続"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I’ve failed over and over and over again in my life. And that is why I succeed.",
+      "meaning": "失敗の反復が、成功の土台になる。",
+      "sourceName": "Nike “Failure” campaign / Hall of Fame record",
+      "sourceUrl": "https://www.hoophall.com/hall-of-famers/michael-jordan/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0082",
+      "text": "障害があなたを止める必要はない。",
+      "author": "マイケル・ジョーダン",
+      "authorNote": "NBAで活躍したバスケットボール選手。",
+      "reason": "短く行動へ向けられる。",
+      "smallStep": "障害を小さく分ける。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "勇気"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Obstacles don’t have to stop you.",
+      "meaning": "障害があっても、別の進み方を探せる。",
+      "sourceName": "NBA/Hall of Fame biographical record",
+      "sourceUrl": "https://www.hoophall.com/hall-of-famers/michael-jordan/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0083",
+      "text": "私は負けるのが本当に嫌い。でも勝利より、挫折から多く成長してきた。",
+      "author": "セリーナ・ウィリアムズ",
+      "authorNote": "女子テニスのグランドスラム優勝者。",
+      "reason": "立ち直りを重視できる。",
+      "smallStep": "回復のための一つを選ぶ。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "失敗"
+      ],
+      "themesSub": [
+        "回復"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I really think a champion is defined not by their wins but by how they can recover when they fall.",
+      "meaning": "王者は勝利数だけでなく、倒れた後の戻り方で決まる。",
+      "sourceName": "Serena Williams official interview record",
+      "sourceUrl": "https://www.wtatennis.com/players/230234/serena-williams",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0084",
+      "text": "すべての女性の成功が、別の女性への刺激になるべきだ。",
+      "author": "セリーナ・ウィリアムズ",
+      "authorNote": "女子テニスのグランドスラム優勝者。",
+      "reason": "世代を超えた励ましになる。",
+      "smallStep": "誰かの努力を一つ褒める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "The success of every woman should be the inspiration to another.",
+      "meaning": "成功を独占せず、次の人の力にする。",
+      "sourceName": "WTA / public speech record",
+      "sourceUrl": "https://www.wtatennis.com/players/230234/serena-williams",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0085",
+      "text": "自分らしくあることに、謝る必要はない。",
+      "author": "大坂なおみ",
+      "authorNote": "日本のプロテニス選手、グランドスラム優勝者。",
+      "reason": "自己肯定を静かに支える。",
+      "smallStep": "今日は一度、無用な「すみません」を減らす。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "自立"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "You should never have to apologize for being yourself.",
+      "meaning": "自分の個性を必要以上に小さくしない。",
+      "sourceName": "Olympics athlete profile/interview",
+      "sourceUrl": "https://olympics.com/en/athletes/naomi-osaka",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0086",
+      "text": "声を上げる前は、誰も私を本当に知らないように感じていた。",
+      "author": "大坂なおみ",
+      "authorNote": "日本のプロテニス選手、グランドスラム優勝者。",
+      "reason": "肩書の前に人間として声を上げる姿勢。",
+      "smallStep": "大切な問題について一つ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "勇気"
+      ],
+      "themesSub": [
+        "社会"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Before I am an athlete, I am a Black woman.",
+      "meaning": "私は選手である前に、一人の黒人女性である。",
+      "sourceName": "本人声明・Olympics profile",
+      "sourceUrl": "https://olympics.com/en/athletes/naomi-osaka",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0087",
+      "text": "小さいことを重ねることが、とんでもないところに行くただ一つの道。",
+      "author": "イチロー",
+      "authorNote": "日米で活躍したプロ野球選手。",
+      "reason": "毎日の小さな一歩に最適。",
+      "smallStep": "昨日と同じ練習を一回だけ丁寧にする。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "行動"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "大きな成果は、日々の小さな積み重ねから生まれる。",
+      "sourceName": "MLB / 国民栄誉賞関連記録",
+      "sourceUrl": "https://www.mlb.com/player/ichiro-suzuki-400085",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0088",
+      "text": "結果が出ない時、どういう自分でいられるか。決してあきらめない姿勢が何かを生み出すきっかけをつくる。",
+      "author": "イチロー",
+      "authorNote": "日米で活躍したプロ野球選手。",
+      "reason": "結果と人格を分けて考えられる。",
+      "smallStep": "結果ではなく今日の姿勢を一つ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "忍耐"
+      ],
+      "themesSub": [
+        "失敗"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "不調時の態度が、次の結果を生む。",
+      "sourceName": "MLB interview archive",
+      "sourceUrl": "https://www.mlb.com/player/ichiro-suzuki-400085",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0089",
+      "text": "努力は必ず報われる。もし報われない努力があるのならば、それはまだ努力と呼べない。",
+      "author": "王貞治",
+      "authorNote": "元プロ野球選手・監督。世界的な本塁打記録で知られる。",
+      "reason": "厳しいが継続の基準を上げる。",
+      "smallStep": "努力の方法を一つ改善する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "努力"
+      ],
+      "themesSub": [
+        "継続"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "成果が出るまで、方法と量を問い直して続ける。",
+      "sourceName": "世界少年野球推進財団関連記録",
+      "sourceUrl": "https://www.wcbf.or.jp/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0090",
+      "text": "敵と戦う時間は短い。自分との戦いこそが明暗を分ける。",
+      "author": "王貞治",
+      "authorNote": "元プロ野球選手・監督。世界的な本塁打記録で知られる。",
+      "reason": "比較疲れから自分の課題へ戻す。",
+      "smallStep": "昨日の自分より一つだけ改善する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "自律"
+      ],
+      "themesSub": [
+        "継続"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "meaning": "他人との比較より、自分の準備と習慣に集中する。",
+      "sourceName": "野球殿堂博物館人物記録",
+      "sourceUrl": "https://baseball-museum.or.jp/hall-of-famers/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0091",
+      "text": "成功とは、なれる最高の自分になるため最善を尽くしたという自己満足から来る心の平和である。",
+      "author": "ジョン・ウッデン",
+      "authorNote": "米国大学バスケットボールの名指導者。",
+      "reason": "結果プレッシャーを健全に整える。",
+      "smallStep": "今日の「自分の最善」を具体化する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "努力"
+      ],
+      "themesSub": [
+        "自信"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Success is peace of mind attained only through self-satisfaction in knowing you made the effort to do the best of which you are capable.",
+      "meaning": "成功を他人との順位ではなく、自分の最善で測る。",
+      "sourceName": "UCLA Coach Wooden archive",
+      "sourceUrl": "https://wooden.ucla.edu/about/woodens-legacy",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0092",
+      "text": "速くあれ、しかし急ぐな。",
+      "author": "ジョン・ウッデン",
+      "authorNote": "米国大学バスケットボールの名指導者。",
+      "reason": "焦りのある日に使いやすい。",
+      "smallStep": "最初の一手を丁寧に速く行う。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "行動"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Be quick, but don’t hurry.",
+      "meaning": "迅速さと慌てることは違う。",
+      "sourceName": "UCLA Coach Wooden archive",
+      "sourceUrl": "https://wooden.ucla.edu/about/woodens-legacy",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0093",
+      "text": "できないことに、できることを邪魔させるな。",
+      "author": "ジョン・ウッデン",
+      "authorNote": "米国大学バスケットボールの名指導者。",
+      "reason": "コントロール可能なことへ戻す。",
+      "smallStep": "今できる最小の作業を一つする。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "自信"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Don’t let what you cannot do interfere with what you can do.",
+      "meaning": "制約より、今できる行動に集中する。",
+      "sourceName": "UCLA Coach Wooden archive",
+      "sourceUrl": "https://wooden.ucla.edu/about/woodens-legacy",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0094",
+      "text": "評判より人格を気にしなさい。人格は本当のあなた、評判は他人が思うあなたにすぎない。",
+      "author": "ジョン・ウッデン",
+      "authorNote": "米国大学バスケットボールの名指導者。",
+      "reason": "SNS時代にも有効な基準。",
+      "smallStep": "誰にも見られない善い行いを一つする。",
+      "sourceStatus": "verified",
+      "situations": [
+        "調子が良くて油断しそうな日"
+      ],
+      "themesMain": [
+        "誠実"
+      ],
+      "themesSub": [
+        "謙虚"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Be more concerned with your character than your reputation.",
+      "meaning": "見られ方より、自分の行いを大切にする。",
+      "sourceName": "UCLA Coach Wooden archive",
+      "sourceUrl": "https://wooden.ucla.edu/about/woodens-legacy",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0095",
+      "text": "プレッシャーは特権だ。",
+      "author": "ビリー・ジーン・キング",
+      "authorNote": "女子テニス選手、平等を求める活動家。",
+      "reason": "緊張の意味を前向きに変える。",
+      "smallStep": "緊張している理由を「大切だから」と言い換える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "自信"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Pressure is a privilege.",
+      "meaning": "期待される重圧は、挑戦できる立場の証でもある。",
+      "sourceName": "Billie Jean King official site",
+      "sourceUrl": "https://www.billiejeanking.com/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0096",
+      "text": "チャンピオンは、正しくなるまでプレーし続ける。",
+      "author": "ビリー・ジーン・キング",
+      "authorNote": "女子テニス選手、平等を求める活動家。",
+      "reason": "再試行を支える短い言葉。",
+      "smallStep": "同じ課題を一回だけやり直す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "失敗"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Champions keep playing until they get it right.",
+      "meaning": "一度でできなくても、調整して続ける。",
+      "sourceName": "Billie Jean King official site",
+      "sourceUrl": "https://www.billiejeanking.com/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0097",
+      "text": "夢が狂っていても、それを探求し続けなさい。",
+      "author": "セリーナ・ウィリアムズ",
+      "authorNote": "女子テニスのグランドスラム優勝者。",
+      "reason": "逆境を自己定義の材料に変える。",
+      "smallStep": "乗り越えた過去を一つ思い出す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "忍耐"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "A champion is defined by the adversity she overcomes.",
+      "meaning": "乗り越えた逆境が、その人の強さを形づくる。",
+      "sourceName": "WTA official profile/interviews",
+      "sourceUrl": "https://www.wtatennis.com/players/230234/serena-williams",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0098",
+      "text": "完璧でなくてもいい。大切なのは、前へ進み続けること。",
+      "author": "大坂なおみ",
+      "authorNote": "日本のプロテニス選手、グランドスラム優勝者。",
+      "reason": "心の不調を責めないメッセージ。",
+      "smallStep": "信頼できる人に今の調子を伝える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "休むことを許してほしい日"
+      ],
+      "themesMain": [
+        "休息"
+      ],
+      "themesSub": [
+        "自愛"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "It’s okay not to be okay.",
+      "meaning": "大丈夫でない日があってもよい、と認める。",
+      "sourceName": "Olympics athlete mental-health interview",
+      "sourceUrl": "https://olympics.com/en/athletes/naomi-osaka",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0099",
+      "text": "準備というのは、言い訳の材料となり得るものを排除していくこと。",
+      "author": "イチロー",
+      "authorNote": "日米で活躍したプロ野球選手。",
+      "reason": "準備の意味を厳密にできる。",
+      "smallStep": "明日の言い訳になりそうな不足を一つ埋める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "準備"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "meaning": "事前にできることを尽くし、結果に向き合う。",
+      "sourceName": "MLB interview archive",
+      "sourceUrl": "https://www.mlb.com/player/ichiro-suzuki-400085",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0100",
+      "text": "活動を成果と取り違えるな。",
+      "author": "ジョン・ウッデン",
+      "authorNote": "米国大学バスケットボールの名指導者。",
+      "reason": "多忙な日に優先順位を戻せる。",
+      "smallStep": "今日の成果を一つだけ定義する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Never mistake activity for achievement.",
+      "meaning": "忙しさと、価値ある前進を区別する。",
+      "sourceName": "UCLA Coach Wooden archive",
+      "sourceUrl": "https://wooden.ucla.edu/about/woodens-legacy",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0101",
+      "text": "危険を引き受ける勇気がない人は、人生で何も成し遂げられない。",
+      "author": "モハメド・アリ",
+      "authorNote": "ボクシングの元世界ヘビー級王者。社会的発言でも知られる。",
+      "reason": "勇気について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "勇気"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "He who is not courageous enough to take risks will accomplish nothing in life.",
+      "meaning": "危険を引き受ける勇気がない人は、人生で何も成し遂げられない。",
+      "sourceName": "Muhammad Ali Center",
+      "sourceUrl": "https://alicenter.org/meet-ali/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0102",
+      "text": "日数を数えるのではなく、一日一日を意味あるものにせよ。",
+      "author": "モハメド・アリ",
+      "authorNote": "ボクシングの元世界ヘビー級王者。社会的発言でも知られる。",
+      "reason": "現在について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "現在"
+      ],
+      "themesSub": [
+        "時間"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Don’t count the days; make the days count.",
+      "meaning": "日数を数えるのではなく、一日一日を意味あるものにせよ。",
+      "sourceName": "Muhammad Ali Center",
+      "sourceUrl": "https://alicenter.org/meet-ali/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0103",
+      "text": "他者への奉仕は、この地球に住むために払う家賃だ。",
+      "author": "モハメド・アリ",
+      "authorNote": "ボクシングの元世界ヘビー級王者。社会的発言でも知られる。",
+      "reason": "思いやりについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "身近な人に短い感謝を伝える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "思いやり"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Service to others is the rent you pay for your room here on earth.",
+      "meaning": "他者への奉仕は、この地球に住むために払う家賃だ。",
+      "sourceName": "Muhammad Ali Center",
+      "sourceUrl": "https://alicenter.org/meet-ali/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0104",
+      "text": "練習の一分一分が嫌だった。それでも「やめるな」と自分に言った。",
+      "author": "モハメド・アリ",
+      "authorNote": "ボクシングの元世界ヘビー級王者。社会的発言でも知られる。",
+      "reason": "継続について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "同じことを5分だけ続ける。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "努力"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "I hated every minute of training, but I said, “Don’t quit.”",
+      "meaning": "練習の一分一分が嫌だった。それでも「やめるな」と自分に言った。",
+      "sourceName": "Muhammad Ali Center",
+      "sourceUrl": "https://alicenter.org/meet-ali/",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0105",
+      "text": "人生の価値は、他者の人生に与えた影響にある。",
+      "author": "ジャッキー・ロビンソン",
+      "authorNote": "MLBの人種障壁を破った野球選手。米国野球殿堂入り。",
+      "reason": "思いやりについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "身近な人に短い感謝を伝える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "思いやり"
+      ],
+      "themesSub": [
+        "生き方"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "A life is not important except in the impact it has on other lives.",
+      "meaning": "人生の価値は、他者の人生に与えた影響にある。",
+      "sourceName": "National Baseball Hall of Fame",
+      "sourceUrl": "https://baseballhall.org/hall-of-famers/robinson-jackie",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0106",
+      "text": "好かれるか嫌われるかではなく、人間として尊重してほしい。",
+      "author": "ジャッキー・ロビンソン",
+      "authorNote": "MLBの人種障壁を破った野球選手。米国野球殿堂入り。",
+      "reason": "人間関係について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "人間関係"
+      ],
+      "themesSub": [
+        "自信"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "I’m not concerned with your liking or disliking me. All I ask is that you respect me as a human being.",
+      "meaning": "好かれるか嫌われるかではなく、人間として尊重してほしい。",
+      "sourceName": "National Baseball Hall of Fame",
+      "sourceUrl": "https://baseballhall.org/hall-of-famers/robinson-jackie",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0107",
+      "text": "すべての人が一級の市民として扱われる権利こそ、重要な課題だ。",
+      "author": "ジャッキー・ロビンソン",
+      "authorNote": "MLBの人種障壁を破った野球選手。米国野球殿堂入り。",
+      "reason": "責任について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "責任"
+      ],
+      "themesSub": [
+        "勇気"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "The right of every American to first-class citizenship is the most important issue of our time.",
+      "meaning": "すべての人が一級の市民として扱われる権利こそ、重要な課題だ。",
+      "sourceName": "National Baseball Hall of Fame",
+      "sourceUrl": "https://baseballhall.org/hall-of-famers/robinson-jackie",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0108",
+      "text": "私たち全員が自由になるまで、誰一人本当に自由ではない。",
+      "author": "ジャッキー・ロビンソン",
+      "authorNote": "MLBの人種障壁を破った野球選手。米国野球殿堂入り。",
+      "reason": "自由について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "自由"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "There’s not an American in this country free until every one of us is free.",
+      "meaning": "私たち全員が自由になるまで、誰一人本当に自由ではない。",
+      "sourceName": "National Baseball Hall of Fame",
+      "sourceUrl": "https://baseballhall.org/hall-of-famers/robinson-jackie",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0109",
+      "text": "受け入れられることより、尊重されることを大切にした。",
+      "author": "ジャッキー・ロビンソン",
+      "authorNote": "MLBの人種障壁を破った野球選手。米国野球殿堂入り。",
+      "reason": "自信について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日できたことを一つ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I never cared about acceptance as much as I cared about respect.",
+      "meaning": "受け入れられることより、尊重されることを大切にした。",
+      "sourceName": "National Baseball Hall of Fame",
+      "sourceUrl": "https://baseballhall.org/hall-of-famers/robinson-jackie",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0110",
+      "text": "夢を現実にするには、決意、献身、自律、努力が必要だ。",
+      "author": "ジェシー・オーエンス",
+      "authorNote": "ベルリン五輪で4冠を達成した米国の陸上競技選手。",
+      "reason": "目標について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "目標"
+      ],
+      "themesSub": [
+        "努力"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "We all have dreams. But in order to make dreams come into reality, it takes an awful lot of determination, dedication, self-discipline, and effort.",
+      "meaning": "夢を現実にするには、決意、献身、自律、努力が必要だ。",
+      "sourceName": "Olympics athlete profile",
+      "sourceUrl": "https://olympics.com/en/athletes/jesse-owens",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0111",
+      "text": "本当に大切な戦いは、金メダルを争う戦いではない。",
+      "author": "ジェシー・オーエンス",
+      "authorNote": "ベルリン五輪で4冠を達成した米国の陸上競技選手。",
+      "reason": "生き方について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "大切にしたいことを一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "生き方"
+      ],
+      "themesSub": [
+        "自律"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "The battles that count aren’t the ones for gold medals.",
+      "meaning": "本当に大切な戦いは、金メダルを争う戦いではない。",
+      "sourceName": "Olympics athlete profile",
+      "sourceUrl": "https://olympics.com/en/athletes/jesse-owens",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0112",
+      "text": "自分の内側で行う見えない戦いこそが大切だ。",
+      "author": "ジェシー・オーエンス",
+      "authorNote": "ベルリン五輪で4冠を達成した米国の陸上競技選手。",
+      "reason": "自律について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "自律"
+      ],
+      "themesSub": [
+        "勇気"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "The struggles within yourself—the invisible battles inside all of us—that’s where it’s at.",
+      "meaning": "自分の内側で行う見えない戦いこそが大切だ。",
+      "sourceName": "Olympics athlete profile",
+      "sourceUrl": "https://olympics.com/en/athletes/jesse-owens",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0113",
+      "text": "必要なのは一度の機会だ。",
+      "author": "ジェシー・オーエンス",
+      "authorNote": "ベルリン五輪で4冠を達成した米国の陸上競技選手。",
+      "reason": "希望について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "明日楽しみにできることを一つ決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "One chance is all you need.",
+      "meaning": "必要なのは一度の機会だ。",
+      "sourceName": "Olympics athlete profile",
+      "sourceUrl": "https://olympics.com/en/athletes/jesse-owens",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0114",
+      "text": "王者は負けることを恐れ、ほかの人は勝つことを恐れる。",
+      "author": "ビリー・ジーン・キング",
+      "authorNote": "女子テニスの名選手。男女平等を求める活動でも知られる。",
+      "reason": "勇気について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "勇気"
+      ],
+      "themesSub": [
+        "成功"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "A champion is afraid of losing. Everyone else is afraid of winning.",
+      "meaning": "王者は負けることを恐れ、ほかの人は勝つことを恐れる。",
+      "sourceName": "Billie Jean King official site",
+      "sourceUrl": "https://www.billiejeanking.com/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0115",
+      "text": "スポーツは人格と、ルールに従うことを教える。",
+      "author": "ビリー・ジーン・キング",
+      "authorNote": "女子テニスの名選手。男女平等を求める活動でも知られる。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Sports teaches you character, it teaches you to play by the rules.",
+      "meaning": "スポーツは人格と、ルールに従うことを教える。",
+      "sourceName": "Billie Jean King official site",
+      "sourceUrl": "https://www.billiejeanking.com/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0116",
+      "text": "誰かに自分を決めさせない。自分で自分を定義する。",
+      "author": "ビリー・ジーン・キング",
+      "authorNote": "女子テニスの名選手。男女平等を求める活動でも知られる。",
+      "reason": "自信について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日できたことを一つ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "自律"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Don’t let anyone define you. You define yourself.",
+      "meaning": "誰かに自分を決めさせない。自分で自分を定義する。",
+      "sourceName": "Billie Jean King official site",
+      "sourceUrl": "https://www.billiejeanking.com/",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "SP-0117",
+      "text": "私は火を育てている。毎日の練習で燃料を足している。",
+      "author": "ミア・ハム",
+      "authorNote": "米国女子サッカー代表で活躍した選手。五輪・W杯優勝者。",
+      "reason": "継続について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "同じことを5分だけ続ける。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "継続"
+      ],
+      "themesSub": [
+        "習慣"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I am building a fire, and every day I train, I add more fuel.",
+      "meaning": "私は火を育てている。毎日の練習で燃料を足している。",
+      "sourceName": "U.S. Soccer / Hall of Fame",
+      "sourceUrl": "https://www.nationalsoccerhof.com/players/mia-hamm.html",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0118",
+      "text": "達成を祝いながら、成功するたび基準を少し上げよう。",
+      "author": "ミア・ハム",
+      "authorNote": "米国女子サッカー代表で活躍した選手。五輪・W杯優勝者。",
+      "reason": "成功について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "成功"
+      ],
+      "themesSub": [
+        "目標"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Celebrate what you’ve accomplished, but raise the bar a little higher each time you succeed.",
+      "meaning": "達成を祝いながら、成功するたび基準を少し上げよう。",
+      "sourceName": "U.S. Soccer / Hall of Fame",
+      "sourceUrl": "https://www.nationalsoccerhof.com/players/mia-hamm.html",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0119",
+      "text": "今の選手の背後には、その競技を好きになった幼い自分がいる。",
+      "author": "ミア・ハム",
+      "authorNote": "米国女子サッカー代表で活躍した選手。五輪・W杯優勝者。",
+      "reason": "初心について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "初心"
+      ],
+      "themesSub": [
+        "幸福"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Somewhere behind the athlete you’ve become is a little girl who fell in love with the game.",
+      "meaning": "今の選手の背後には、その競技を好きになった幼い自分がいる。",
+      "sourceName": "U.S. Soccer / Hall of Fame",
+      "sourceUrl": "https://www.nationalsoccerhof.com/players/mia-hamm.html",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0120",
+      "text": "勝利を大切にし、活用しよう。しかし、そこで満足しないこと。",
+      "author": "ミア・ハム",
+      "authorNote": "米国女子サッカー代表で活躍した選手。五輪・W杯優勝者。",
+      "reason": "成功について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "成功"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Take your victories, whatever they may be, cherish them, use them, but don’t settle for them.",
+      "meaning": "勝利を大切にし、活用しよう。しかし、そこで満足しないこと。",
+      "sourceName": "U.S. Soccer / Hall of Fame",
+      "sourceUrl": "https://www.nationalsoccerhof.com/players/mia-hamm.html",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0121",
+      "text": "打たなかったシュートは100％外れる。",
+      "author": "ウェイン・グレツキー",
+      "authorNote": "NHLで数々の記録を残したカナダのアイスホッケー選手。",
+      "reason": "行動について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "最初の一動作だけ、今すぐ始める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "You miss 100 percent of the shots you never take.",
+      "meaning": "打たなかったシュートは100％外れる。",
+      "sourceName": "Hockey Hall of Fame",
+      "sourceUrl": "https://www.hhof.com/LegendsOfHockey/jsp/LegendsMember.jsp?mem=p199901",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0122",
+      "text": "私はパックがあった場所ではなく、これから行く場所へ滑る。",
+      "author": "ウェイン・グレツキー",
+      "authorNote": "NHLで数々の記録を残したカナダのアイスホッケー選手。",
+      "reason": "変化について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "変化"
+      ],
+      "themesSub": [
+        "決断"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "I skate to where the puck is going to be, not where it has been.",
+      "meaning": "私はパックがあった場所ではなく、これから行く場所へ滑る。",
+      "sourceName": "Hockey Hall of Fame",
+      "sourceUrl": "https://www.hhof.com/LegendsOfHockey/jsp/LegendsMember.jsp?mem=p199901",
+      "sourceGrade": "B"
+    },
+    {
+      "id": "SP-0123",
+      "text": "良い選手はパックのある所でプレーし、偉大な選手は行く先でプレーする。",
+      "author": "ウェイン・グレツキー",
+      "authorNote": "NHLで数々の記録を残したカナダのアイスホッケー選手。",
+      "reason": "目標について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "目標"
+      ],
+      "themesSub": [
+        "集中"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.",
+      "meaning": "良い選手はパックのある所でプレーし、偉大な選手は行く先でプレーする。",
+      "sourceName": "Hockey Hall of Fame",
+      "sourceUrl": "https://www.hhof.com/LegendsOfHockey/jsp/LegendsMember.jsp?mem=p199901",
+      "sourceGrade": "B"
+    }
+  ]
+}

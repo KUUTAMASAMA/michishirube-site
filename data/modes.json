@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "comment": "label は名言マスターExcelの「モード」列と完全一致させること。モードを増やすときは、Excelに名言を追加し、ここに1件追加するだけでよい。",
+  "modes": [
+    {
+      "id": "zen",
+      "label": "仏教・禅",
+      "description": "心を静める、禅のことば",
+      "emoji": "🍃",
+      "file": "quotes/zen.json",
+      "order": 1
+    },
+    {
+      "id": "philosophy",
+      "label": "哲学者・思想家",
+      "description": "深く考える人たちのことば",
+      "emoji": "📖",
+      "file": "quotes/philosophy.json",
+      "order": 2
+    },
+    {
+      "id": "jp-business",
+      "label": "日本の経営者・実業家",
+      "description": "日本の商いと仕事のことば",
+      "emoji": "🗻",
+      "file": "quotes/jp-business.json",
+      "order": 3
+    },
+    {
+      "id": "world-business",
+      "label": "世界の経営者・発明家",
+      "description": "世界のビジネスと発明のことば",
+      "emoji": "🌍",
+      "file": "quotes/world-business.json",
+      "order": 4
+    },
+    {
+      "id": "sports",
+      "label": "スポーツ選手・指導者",
+      "description": "挑戦する人たちのことば",
+      "emoji": "🏃",
+      "file": "quotes/sports.json",
+      "order": 5
+    },
+    {
+      "id": "artist",
+      "label": "作家・芸術家",
+      "description": "つくる人たちのことば",
+      "emoji": "🎨",
+      "file": "quotes/artist.json",
+      "order": 6
+    }
+  ]
+}

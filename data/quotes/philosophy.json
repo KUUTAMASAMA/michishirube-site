@@ -1,0 +1,1261 @@
+{
+  "version": 2,
+  "mode": "philosophy",
+  "generatedAt": "2026-07-12T03:18:32.471Z",
+  "count": 46,
+  "quotes": [
+    {
+      "id": "PH-0021",
+      "text": "あなたの心を支配できるのはあなた自身で、外の出来事ではない。",
+      "author": "マルクス・アウレリウス",
+      "authorNote": "ローマ皇帝でストア派哲学者。『自省録』を残した。",
+      "reason": "コントロール可能な範囲へ戻す。",
+      "smallStep": "変えられることを一つ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "自信"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "You have power over your mind—not outside events. Realize this, and you will find strength.",
+      "meaning": "外部を変えられなくても、自分の受け止め方は選べる。",
+      "sourceName": "Meditations, Book 12",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2680",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0022",
+      "text": "よい人間とは何かを論じるのをやめ、そういう人になれ。",
+      "author": "マルクス・アウレリウス",
+      "authorNote": "ローマ皇帝でストア派哲学者。『自省録』を残した。",
+      "reason": "実践へ切り替える強さがある。",
+      "smallStep": "今日一つ、黙って善い行いをする。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "誠実"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Waste no more time arguing what a good man should be. Be one.",
+      "meaning": "理想を語るだけでなく、今の行動で示す。",
+      "sourceName": "Meditations, Book 10",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2680",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0023",
+      "text": "朝起きるとき、生き、考え、楽しみ、愛する特権を思え。",
+      "author": "マルクス・アウレリウス",
+      "authorNote": "ローマ皇帝でストア派哲学者。『自省録』を残した。",
+      "reason": "家族で共有しやすい朝の言葉。",
+      "smallStep": "家族一人に「おはよう」を丁寧に言う。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "感謝"
+      ],
+      "themesSub": [
+        "希望"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love.",
+      "meaning": "一日の始まりに、生きていることの価値を思い出す。",
+      "sourceName": "Meditations（英訳）",
+      "sourceUrl": "https://classics.mit.edu/Antoninus/meditations.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0024",
+      "text": "行動の障害が行動を進める。道をふさぐものが道になる。",
+      "author": "マルクス・アウレリウス",
+      "authorNote": "ローマ皇帝でストア派哲学者。『自省録』を残した。",
+      "reason": "挫折を再設計に変える。",
+      "smallStep": "障害から学べることを一つ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "失敗"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "The impediment to action advances action. What stands in the way becomes the way.",
+      "meaning": "障害を材料として、次の方法を見つける。",
+      "sourceName": "Meditations, Book 5",
+      "sourceUrl": "https://classics.mit.edu/Antoninus/meditations.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0025",
+      "text": "未来に動揺するな。必要なら、今と同じ理性を携えて未来に向かう。",
+      "author": "マルクス・アウレリウス",
+      "authorNote": "ローマ皇帝でストア派哲学者。『自省録』を残した。",
+      "reason": "先の不安を今日の力に戻す。",
+      "smallStep": "明日の不安を一つ、今日の準備に変える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "希望"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.",
+      "meaning": "未来の不安には、今日使える判断力で向き合えばよい。",
+      "sourceName": "Meditations, Book 7",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2680",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0026",
+      "text": "私たちを悩ませるのは物事ではなく、物事についての判断である。",
+      "author": "エピクテトス",
+      "authorNote": "古代ローマのストア派哲学者。",
+      "reason": "感情を否定せず、解釈を点検できる。",
+      "smallStep": "事実と解釈を二列に書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "人に腹を立てている日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "自己理解"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Men are disturbed not by things, but by the views which they take of things.",
+      "meaning": "出来事と、それへの解釈を分けてみる。",
+      "sourceName": "Enchiridion 5",
+      "sourceUrl": "https://classics.mit.edu/Epictetus/epicench.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0027",
+      "text": "あるものは私たち次第であり、あるものは私たち次第ではない。",
+      "author": "エピクテトス",
+      "authorNote": "古代ローマのストア派哲学者。",
+      "reason": "悩みを整理する基本線になる。",
+      "smallStep": "紙を二分し「自分次第」を一つ実行する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "決断"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Some things are in our control and others not.",
+      "meaning": "自分で動かせる範囲に力を使う。",
+      "sourceName": "Enchiridion 1",
+      "sourceUrl": "https://classics.mit.edu/Epictetus/epicench.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0028",
+      "text": "役割を選ぶのはあなたではない。与えられた役をよく演じることがあなたの務めだ。",
+      "author": "エピクテトス",
+      "authorNote": "古代ローマのストア派哲学者。",
+      "reason": "役割への集中を促す。",
+      "smallStep": "今日の自分の役割を一語で決める。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "仕事"
+      ],
+      "themesSub": [
+        "責任"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "For this is your business, to act well the character assigned you; to choose it is another’s.",
+      "meaning": "選べない条件の中でも、振る舞いは選べる。",
+      "sourceName": "Enchiridion 17",
+      "sourceUrl": "https://classics.mit.edu/Epictetus/epicench.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0029",
+      "text": "進歩したいなら、外のことについて愚かに見られるのを受け入れよ。",
+      "author": "エピクテトス",
+      "authorNote": "古代ローマのストア派哲学者。",
+      "reason": "初心者の姿勢を守れる。",
+      "smallStep": "分からないことを一つ質問する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "勉強が進まない日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "謙虚"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "If you wish to improve, be content to appear clueless or stupid in extraneous matters.",
+      "meaning": "学ぶ時は、知らないと思われる怖さを手放す。",
+      "sourceName": "Enchiridion 13",
+      "sourceUrl": "https://classics.mit.edu/Epictetus/epicench.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0030",
+      "text": "どんな出来事にも、自分に何ができるかを探せ。",
+      "author": "エピクテトス",
+      "authorNote": "古代ローマのストア派哲学者。",
+      "reason": "回復の具体策へ導く。",
+      "smallStep": "今使える力を一つ挙げる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "失敗"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "On the occasion of every accident that befalls you, remember to turn to yourself and inquire what power you have for turning it to use.",
+      "meaning": "出来事を嘆くだけでなく、使える力を探す。",
+      "sourceName": "Enchiridion 10",
+      "sourceUrl": "https://classics.mit.edu/Epictetus/epicench.html",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0031",
+      "text": "生きる時間が短いのではない。多くを浪費しているのだ。",
+      "author": "セネカ",
+      "authorNote": "古代ローマの政治家・ストア派哲学者。",
+      "reason": "時間管理を本質から考えられる。",
+      "smallStep": "不要な通知を一つ切る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "時間"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "It is not that we have a short time to live, but that we waste a lot of it.",
+      "meaning": "時間不足を嘆く前に、使い方を見直す。",
+      "sourceName": "On the Shortness of Life, 1",
+      "sourceUrl": "https://en.wikisource.org/wiki/On_the_shortness_of_life",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0032",
+      "text": "生きている限り、生き方を学び続けよ。",
+      "author": "セネカ",
+      "authorNote": "古代ローマの政治家・ストア派哲学者。",
+      "reason": "家族三世代に共通する学びの言葉。",
+      "smallStep": "今日知ったことを一つ共有する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "継続"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "As long as you live, keep learning how to live.",
+      "meaning": "年齢に関係なく、生き方は学び続けられる。",
+      "sourceName": "Moral Letters to Lucilius, Letter 76",
+      "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_76",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0033",
+      "text": "苦しいから挑まないのではない。挑まないから苦しくなるのだ。",
+      "author": "セネカ",
+      "authorNote": "古代ローマの政治家・ストア派哲学者。",
+      "reason": "行動のきっかけになる。",
+      "smallStep": "2分でできる最初の動作をする。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "勇気"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "meaning": "最初の一歩が難しさの見え方を変える。",
+      "sourceName": "Moral Letters to Lucilius, Letter 104",
+      "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_104",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0034",
+      "text": "運命は、進む者を導き、拒む者を引きずる。",
+      "author": "セネカ",
+      "authorNote": "古代ローマの政治家・ストア派哲学者。",
+      "reason": "受容と主体性を同時に促す。",
+      "smallStep": "避けている現実を一つ言葉にする。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "決断"
+      ],
+      "themesSub": [
+        "受容"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Fate leads the willing and drags along the reluctant.",
+      "meaning": "避けられない現実には、自ら向き合う方がよい。",
+      "sourceName": "Moral Letters to Lucilius, Letter 107",
+      "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_107",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0035",
+      "text": "必要なものは少なく、欲望は際限がない。",
+      "author": "セネカ",
+      "authorNote": "古代ローマの政治家・ストア派哲学者。",
+      "reason": "消費と比較を見直せる。",
+      "smallStep": "欲しい物を24時間保留する。",
+      "sourceStatus": "verified",
+      "situations": [
+        "調子が良くて油断しそうな日"
+      ],
+      "themesMain": [
+        "節制"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Natural desires are limited; those which spring from false opinion can have no stopping point.",
+      "meaning": "本当に必要なものと、比較から生まれた欲を分ける。",
+      "sourceName": "Moral Letters to Lucilius, Letter 16",
+      "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_16",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0036",
+      "text": "千里の行も足下より始まる。",
+      "author": "老子",
+      "authorNote": "古代中国の思想家と伝えられ、『道徳経』の名に結び付く。",
+      "reason": "短く具体的で実行につながる。",
+      "smallStep": "最初の一歩だけ行う。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "行動"
+      ],
+      "themesSub": [
+        "挑戦"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "千里之行、始於足下。",
+      "meaning": "大きなことも、今いる場所の一歩から始まる。",
+      "sourceName": "老子 道徳経 第64章",
+      "sourceUrl": "https://ctext.org/dao-de-jing",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0037",
+      "text": "足るを知る者は富む。",
+      "author": "老子",
+      "authorNote": "古代中国の思想家と伝えられ、『道徳経』の名に結び付く。",
+      "reason": "比較から離れる助けになる。",
+      "smallStep": "今日すでにある物を三つ数える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "癒されたい日"
+      ],
+      "themesMain": [
+        "感謝"
+      ],
+      "themesSub": [
+        "節制"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "知足者富。",
+      "meaning": "十分だと知る人は、心の豊かさを持つ。",
+      "sourceName": "老子 道徳経 第33章",
+      "sourceUrl": "https://ctext.org/dao-de-jing",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0038",
+      "text": "人を知る者は智、自らを知る者は明。",
+      "author": "老子",
+      "authorNote": "古代中国の思想家と伝えられ、『道徳経』の名に結び付く。",
+      "reason": "自己点検を促す。",
+      "smallStep": "得意と苦手を一つずつ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "自己理解"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "知人者智、自知者明。",
+      "meaning": "他人を知る知恵に加え、自分を知る明晰さを持つ。",
+      "sourceName": "老子 道徳経 第33章",
+      "sourceUrl": "https://ctext.org/dao-de-jing",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0039",
+      "text": "上善は水の若し。水は善く万物を利して争わず。",
+      "author": "老子",
+      "authorNote": "古代中国の思想家と伝えられ、『道徳経』の名に結び付く。",
+      "reason": "柔らかい強さを示す。",
+      "smallStep": "今日は譲れることを一つ譲る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "家族を大切にしたい日"
+      ],
+      "themesMain": [
+        "謙虚"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "上善若水。水善利萬物而不爭。",
+      "meaning": "最上の善は水のように、助けながら争わない。",
+      "sourceName": "老子 道徳経 第8章",
+      "sourceUrl": "https://ctext.org/dao-de-jing",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0040",
+      "text": "多言なればしばしば窮す。中を守るに如かず。",
+      "author": "老子",
+      "authorNote": "古代中国の思想家と伝えられ、『道徳経』の名に結び付く。",
+      "reason": "感情的な言い過ぎを防ぐ。",
+      "smallStep": "送信前に文章を一度読み直す。",
+      "sourceStatus": "verified",
+      "situations": [
+        "人に腹を立てている日"
+      ],
+      "themesMain": [
+        "冷静"
+      ],
+      "themesSub": [
+        "言葉"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "多言數窮、不如守中。",
+      "meaning": "言い過ぎるより、静けさと節度を守る。",
+      "sourceName": "老子 道徳経 第5章",
+      "sourceUrl": "https://ctext.org/dao-de-jing",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0041",
+      "text": "学んだことを折に触れて復習するのは、喜ばしいことではないか。",
+      "author": "孔子",
+      "authorNote": "古代中国の思想家。弟子との問答が『論語』に伝えられる。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "習慣"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "學而時習之，不亦說乎？",
+      "meaning": "学んだことを折に触れて復習するのは、喜ばしいことではないか。",
+      "sourceName": "論語",
+      "sourceUrl": "https://ctext.org/analects",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0042",
+      "text": "知っていることを知っているとし、知らないことを知らないとする。それが知である。",
+      "author": "孔子",
+      "authorNote": "古代中国の思想家。弟子との問答が『論語』に伝えられる。",
+      "reason": "謙虚について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "謙虚"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "知之為知之，不知為不知，是知也。",
+      "meaning": "知っていることを知っているとし、知らないことを知らないとする。それが知である。",
+      "sourceName": "論語",
+      "sourceUrl": "https://ctext.org/analects",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0043",
+      "text": "自分が望まないことを、人にしてはいけない。",
+      "author": "孔子",
+      "authorNote": "古代中国の思想家。弟子との問答が『論語』に伝えられる。",
+      "reason": "思いやりについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "身近な人に短い感謝を伝える。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "思いやり"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "己所不欲，勿施於人。",
+      "meaning": "自分が望まないことを、人にしてはいけない。",
+      "sourceName": "論語",
+      "sourceUrl": "https://ctext.org/analects",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0044",
+      "text": "三人で歩けば、必ずそこに自分の師となる人がいる。",
+      "author": "孔子",
+      "authorNote": "古代中国の思想家。弟子との問答が『論語』に伝えられる。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "謙虚"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "三人行，必有我師焉。",
+      "meaning": "三人で歩けば、必ずそこに自分の師となる人がいる。",
+      "sourceName": "論語",
+      "sourceUrl": "https://ctext.org/analects",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0045",
+      "text": "過ちを犯して改めないこと、それを本当の過ちという。",
+      "author": "孔子",
+      "authorNote": "古代中国の思想家。弟子との問答が『論語』に伝えられる。",
+      "reason": "失敗について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "失敗"
+      ],
+      "themesSub": [
+        "再出発"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "過而不改，是謂過矣。",
+      "meaning": "過ちを犯して改めないこと、それを本当の過ちという。",
+      "sourceName": "論語",
+      "sourceUrl": "https://ctext.org/analects",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0046",
+      "text": "私の仕事、私の技は、生きることだ。",
+      "author": "モンテーニュ",
+      "authorNote": "フランス・ルネサンス期の思想家。随筆という形式を確立した。",
+      "reason": "生き方について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "大切にしたいことを一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "生き方"
+      ],
+      "themesSub": [
+        "現在"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "My trade and art is to live.",
+      "meaning": "私の仕事、私の技は、生きることだ。",
+      "sourceName": "Essays",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/3600",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0047",
+      "text": "苦しむことを恐れる人は、恐れによってすでに苦しんでいる。",
+      "author": "モンテーニュ",
+      "authorNote": "フランス・ルネサンス期の思想家。随筆という形式を確立した。",
+      "reason": "焦りについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "焦り"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "He who fears he shall suffer, already suffers what he fears.",
+      "meaning": "苦しむことを恐れる人は、恐れによってすでに苦しんでいる。",
+      "sourceName": "Essays",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/3600",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0048",
+      "text": "この世で最も大切なのは、自分自身であるすべを知ることだ。",
+      "author": "モンテーニュ",
+      "authorNote": "フランス・ルネサンス期の思想家。随筆という形式を確立した。",
+      "reason": "自律について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "自律"
+      ],
+      "themesSub": [
+        "自信"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "The greatest thing in the world is to know how to belong to oneself.",
+      "meaning": "この世で最も大切なのは、自分自身であるすべを知ることだ。",
+      "sourceName": "Essays",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/3600",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0049",
+      "text": "最もよく知らないことほど、固く信じ込まれやすい。",
+      "author": "モンテーニュ",
+      "authorNote": "フランス・ルネサンス期の思想家。随筆という形式を確立した。",
+      "reason": "戒めについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "戒め"
+      ],
+      "themesSub": [
+        "学び"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Nothing is so firmly believed as that which we least know.",
+      "meaning": "最もよく知らないことほど、固く信じ込まれやすい。",
+      "sourceName": "Essays",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/3600",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0050",
+      "text": "心には、理性の知らない理由がある。",
+      "author": "ブレーズ・パスカル",
+      "authorNote": "フランスの数学者・物理学者・思想家。『パンセ』を残した。",
+      "reason": "決断について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "選択肢を二つに絞る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "決断"
+      ],
+      "themesSub": [
+        "感情"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "The heart has its reasons which reason knows not.",
+      "meaning": "心には、理性の知らない理由がある。",
+      "sourceName": "Pensées",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/18269",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0051",
+      "text": "人間の問題の多くは、ひとり静かに部屋にいられないことから生じる。",
+      "author": "ブレーズ・パスカル",
+      "authorNote": "フランスの数学者・物理学者・思想家。『パンセ』を残した。",
+      "reason": "孤独について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "孤独"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "All of humanity’s problems stem from man’s inability to sit quietly in a room alone.",
+      "meaning": "人間の問題の多くは、ひとり静かに部屋にいられないことから生じる。",
+      "sourceName": "Pensées",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/18269",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0052",
+      "text": "人間は自然の中で最も弱い葦にすぎない。しかし考える葦である。",
+      "author": "ブレーズ・パスカル",
+      "authorNote": "フランスの数学者・物理学者・思想家。『パンセ』を残した。",
+      "reason": "自信について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日できたことを一つ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "生き方"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Man is only a reed, the weakest in nature, but he is a thinking reed.",
+      "meaning": "人間は自然の中で最も弱い葦にすぎない。しかし考える葦である。",
+      "sourceName": "Pensées",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/18269",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0053",
+      "text": "私たちは理性だけでなく、心によっても真実を知る。",
+      "author": "ブレーズ・パスカル",
+      "authorNote": "フランスの数学者・物理学者・思想家。『パンセ』を残した。",
+      "reason": "真実について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "真実"
+      ],
+      "themesSub": [
+        "冷静"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "We know the truth, not only by the reason, but also by the heart.",
+      "meaning": "私たちは理性だけでなく、心によっても真実を知る。",
+      "sourceName": "Pensées",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/18269",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0054",
+      "text": "自分側の事情しか知らない人は、その事情さえほとんど知らない。",
+      "author": "ジョン・スチュアート・ミル",
+      "authorNote": "英国の哲学者・経済学者。自由論と功利主義で知られる。",
+      "reason": "学びについて、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "分からない言葉を一つだけ調べる。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "学び"
+      ],
+      "themesSub": [
+        "人間関係"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "He who knows only his own side of the case knows little of that.",
+      "meaning": "自分側の事情しか知らない人は、その事情さえほとんど知らない。",
+      "sourceName": "On Liberty",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/34901",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0055",
+      "text": "国家の価値は、長い目で見れば、それを構成する個人の価値である。",
+      "author": "ジョン・スチュアート・ミル",
+      "authorNote": "英国の哲学者・経済学者。自由論と功利主義で知られる。",
+      "reason": "責任について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "責任"
+      ],
+      "themesSub": [
+        "自律"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "The worth of a State, in the long run, is the worth of the individuals composing it.",
+      "meaning": "国家の価値は、長い目で見れば、それを構成する個人の価値である。",
+      "sourceName": "On Liberty",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/34901",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0056",
+      "text": "才能は自由な空気の中でこそ、のびのびと息ができる。",
+      "author": "ジョン・スチュアート・ミル",
+      "authorNote": "英国の哲学者・経済学者。自由論と功利主義で知られる。",
+      "reason": "自由について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "自由"
+      ],
+      "themesSub": [
+        "創造"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Genius can only breathe freely in an atmosphere of freedom.",
+      "meaning": "才能は自由な空気の中でこそ、のびのびと息ができる。",
+      "sourceName": "On Liberty",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/34901",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0057",
+      "text": "人は行動だけでなく、何もしないことによっても他者を害しうる。",
+      "author": "ジョン・スチュアート・ミル",
+      "authorNote": "英国の哲学者・経済学者。自由論と功利主義で知られる。",
+      "reason": "責任について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "背中を押してほしい日"
+      ],
+      "themesMain": [
+        "責任"
+      ],
+      "themesSub": [
+        "行動"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "A person may cause evil to others not only by his actions but by his inaction.",
+      "meaning": "人は行動だけでなく、何もしないことによっても他者を害しうる。",
+      "sourceName": "On Liberty",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/34901",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0058",
+      "text": "信念を持つ一人は、利害だけの九十九人に匹敵する。",
+      "author": "ジョン・スチュアート・ミル",
+      "authorNote": "英国の哲学者・経済学者。自由論と功利主義で知られる。",
+      "reason": "勇気について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "少し戒めが欲しい日"
+      ],
+      "themesMain": [
+        "勇気"
+      ],
+      "themesSub": [
+        "自信"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "One person with a belief is equal to ninety-nine who have only interests.",
+      "meaning": "信念を持つ一人は、利害だけの九十九人に匹敵する。",
+      "sourceName": "On Liberty",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/34901",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0059",
+      "text": "情熱なしに偉大なことが成し遂げられた例はない。",
+      "author": "ラルフ・ワルド・エマーソン",
+      "authorNote": "米国の思想家・随筆家。超越主義を代表する。",
+      "reason": "挑戦について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "失敗した日"
+      ],
+      "themesMain": [
+        "挑戦"
+      ],
+      "themesSub": [
+        "仕事"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "Nothing great was ever achieved without enthusiasm.",
+      "meaning": "情熱なしに偉大なことが成し遂げられた例はない。",
+      "sourceName": "Essays",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/16643",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0060",
+      "text": "愚かな一貫性は、小さな心を縛る怪物である。",
+      "author": "ラルフ・ワルド・エマーソン",
+      "authorNote": "米国の思想家・随筆家。超越主義を代表する。",
+      "reason": "変化について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "考えを深めたい日"
+      ],
+      "themesMain": [
+        "変化"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "A foolish consistency is the hobgoblin of little minds.",
+      "meaning": "愚かな一貫性は、小さな心を縛る怪物である。",
+      "sourceName": "Essays",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/16643",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0061",
+      "text": "自然の歩調を取り入れよう。その秘密は忍耐だ。",
+      "author": "ラルフ・ワルド・エマーソン",
+      "authorNote": "米国の思想家・随筆家。超越主義を代表する。",
+      "reason": "忍耐について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "将来が不安な日"
+      ],
+      "themesMain": [
+        "忍耐"
+      ],
+      "themesSub": [
+        "休息"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "Adopt the pace of nature: her secret is patience.",
+      "meaning": "自然の歩調を取り入れよう。その秘密は忍耐だ。",
+      "sourceName": "Essays",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/16643",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0062",
+      "text": "多くの人は静かな絶望の中で生きている。",
+      "author": "ヘンリー・デイヴィッド・ソロー",
+      "authorNote": "米国の思想家・作家。『ウォールデン』で簡素な生活を論じた。",
+      "reason": "生き方について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "大切にしたいことを一語で書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "気持ちを切り替えたい日"
+      ],
+      "themesMain": [
+        "生き方"
+      ],
+      "themesSub": [
+        "孤独"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "The mass of men lead lives of quiet desperation.",
+      "meaning": "多くの人は静かな絶望の中で生きている。",
+      "sourceName": "Walden",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/205",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0063",
+      "text": "私は意識的に生きたいと思い、森へ行った。",
+      "author": "ヘンリー・デイヴィッド・ソロー",
+      "authorNote": "米国の思想家・作家。『ウォールデン』で簡素な生活を論じた。",
+      "reason": "決断について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "選択肢を二つに絞る。",
+      "sourceStatus": "verified",
+      "situations": [
+        "仕事に集中したい日"
+      ],
+      "themesMain": [
+        "決断"
+      ],
+      "themesSub": [
+        "現在"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "全年代"
+      ],
+      "originalText": "I went to the woods because I wished to live deliberately.",
+      "meaning": "私は意識的に生きたいと思い、森へ行った。",
+      "sourceName": "Walden",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/205",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0064",
+      "text": "人生は細部に散らされていく。簡素に、簡素に。",
+      "author": "ヘンリー・デイヴィッド・ソロー",
+      "authorNote": "米国の思想家・作家。『ウォールデン』で簡素な生活を論じた。",
+      "reason": "集中について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "穏やかに過ごしたい日"
+      ],
+      "themesMain": [
+        "集中"
+      ],
+      "themesSub": [
+        "戒め"
+      ],
+      "tone": "普通",
+      "ageGroups": [
+        "大学生"
+      ],
+      "originalText": "Our life is frittered away by detail. Simplify, simplify.",
+      "meaning": "人生は細部に散らされていく。簡素に、簡素に。",
+      "sourceName": "Walden",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/205",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0065",
+      "text": "仲間と歩調が合わないなら、その人には別の太鼓が聞こえているのかもしれない。",
+      "author": "ヘンリー・デイヴィッド・ソロー",
+      "authorNote": "米国の思想家・作家。『ウォールデン』で簡素な生活を論じた。",
+      "reason": "自信について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今日できたことを一つ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "頑張りたい日"
+      ],
+      "themesMain": [
+        "自信"
+      ],
+      "themesSub": [
+        "自律"
+      ],
+      "tone": "辛口",
+      "ageGroups": [
+        "50代"
+      ],
+      "originalText": "If a man does not keep pace with his companions, perhaps it is because he hears a different drummer.",
+      "meaning": "仲間と歩調が合わないなら、その人には別の太鼓が聞こえているのかもしれない。",
+      "sourceName": "Walden",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/205",
+      "sourceGrade": "A"
+    },
+    {
+      "id": "PH-0066",
+      "text": "私たちが目覚めている日にだけ、朝は訪れる。",
+      "author": "ヘンリー・デイヴィッド・ソロー",
+      "authorNote": "米国の思想家・作家。『ウォールデン』で簡素な生活を論じた。",
+      "reason": "現在について、本人または原典の短い言葉から考えられるため。",
+      "smallStep": "今の気持ちを一行だけ書く。",
+      "sourceStatus": "verified",
+      "situations": [
+        "迷っている日"
+      ],
+      "themesMain": [
+        "現在"
+      ],
+      "themesSub": [
+        "希望"
+      ],
+      "tone": "甘口",
+      "ageGroups": [
+        "大学生",
+        "50代"
+      ],
+      "originalText": "Only that day dawns to which we are awake.",
+      "meaning": "私たちが目覚めている日にだけ、朝は訪れる。",
+      "sourceName": "Walden",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/205",
+      "sourceGrade": "A"
+    }
+  ]
+}
